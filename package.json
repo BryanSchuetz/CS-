@@ -1,0 +1,28 @@
+{
+  "name": "dai-blogs",
+  "version": "1.0.0",
+  "description": "A gem based theme for dai blogs built on Jekyll.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "serve": "browser-sync start --config browser-sync.js",
+    "build":"bundle exec jekyll build --watch --incremental",
+    "jekyllfy": "npm run build & npm run serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "browser-sync": "^2.18.8"
+  },
+  "devDependencies": {
+
+  }
+}
