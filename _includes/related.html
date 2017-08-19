@@ -1,0 +1,62 @@
+{% if page.layout  == 'author' %}
+  {% for post in site.posts %}
+    {% if post.Author == page.title %}
+      {% assign published = 'true' %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+  {% if published == 'true' %}
+    <h3>Recently, from {{ page.title }}:</h3>
+  {% else %}
+    <h3>Related Articles:</h3>
+  {% endif %}
+{% else %}
+  <h3>Related Articles:</h3>
+{% endif %}
+<ul>
+  <!-- Get all the posts -->
+  {% assign posts = site.posts | sort: 'date' | reverse %}
+  {% assign cap = 0 %}
+  <!-- Look at each post in the array -->
+  {% for post in posts %}
+  <!-- Ignore the current post -->
+    {% if post.url != page.url %}
+      <!-- Check to see if we're on an author page -->
+      {% if page.layout == 'author' %}
+        <!-- If the posts author is the author being shown -->
+        {% if post.Author == page.title %}
+          <!-- Show the post details -->
+          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+          {% assign cap = cap | plus: 1 %}
+          {% assign got_related = true%}
+        {% endif %}
+        <!-- Otherwise, if we're on a post -->
+      {% elsif page.layout == 'post' %}
+        <!-- Loop through the post tags -->
+        {% for tag in page.tags %}
+          <!-- Compare each tag in each post to each tag on the page -->
+          {% if post.tags contains tag %}
+            {% assign got_related = true%}
+            <!-- Show tags that match -->
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% assign cap = cap | plus: 1 %}
+            <!-- If one tag in a post matches a tag on the page, stop -->
+            {% break %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    {% endif %}
+    {% if cap > 3 %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+  <!-- If there's no actually related content show recent stuff -->
+  {% unless got_related == true %}
+    {% assign new_posts = posts%}
+    {% for post in new_posts | limit: 3 %}
+      {% if post.url != page.url%}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  {% endunless %}
+</ul>

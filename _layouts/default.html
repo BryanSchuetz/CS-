@@ -1,0 +1,85 @@
+---
+---
+
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+    <div id="fb-root"></div>
+    {% include svg_sprite.html %}
+    <div class="big-wrap">
+      {% include header.html %}
+        <div class="page-content">
+            <h1 class="page-title"><a class="site-title without-style" href="{{ site.baseurl }}/"><svg viewBox="0 0 1511 212"  preserveAspectRatio="xMinYMax meet"><use xlink:href="#banner"></use></svg></a></h1>
+          <div class="wrapper">
+            <script type="text/javascript" src="{{ site.baseurl }}/assets/js/site.js"></script>
+            <!-- <script>(function(d, s, id) {
+              var js, fjs = d.getElementsByTagName(s)[0];
+              if (d.getElementById(id)) return;
+              js = d.createElement(s); js.id = id;
+              js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=154445474571600";
+              fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));</script> -->
+            {{ content }}
+          </div>
+        </div>
+      <div class="aside-related cf">
+        <div class="aside--logo"><a class="without-style" href="http://dai.com"><svg class="search" viewBox="0 0 996 255" preserveAspectRatio="xMinYMax meet"><use xlink:href="#dai-logo"></use></svg></a></div>
+        <p><strong>DAI</strong> works on the frontlines of international development. Transforming ideas into action—action into impact. <a class="without-style" href="http://dai.com">We are committed to shaping a more livable world</a>.</p>
+        <p class="related-links"><a class="without-style more-button related-link" href="/feed.xml"><svg class="svg-button svg" viewBox="0 0 72 72" preserveAspectRatio="xMinYMax meet"><use xlink:href="#rss"></use></svg> RSS</a><a class="without-style more-button related-link" href="mailto:digital@dai.com"><svg class="svg-button svg" viewBox="0 0 72 72" preserveAspectRatio="xMinYMax meet"><use xlink:href="#contact"></use></svg> CONTACT</a></p>
+        {% if page.url == "/" %}
+        <hr>
+        <h2>Filter Posts by Tag</h2>
+        <div class="filter-button-group">
+          <ul>
+            {% for tag in site.featured-tags %}
+            <li><button data-filter=".{{ tag | slugify }}" class="without-style more-button tag-filter">{{ tag }}</button></li>
+            {% endfor %}
+          </ul>
+        </div>
+        {% endif %}
+        {% if page.layout == 'post' or page.layout == 'author'%}
+          <hr>
+          {% include related.html %}
+        {% endif %}
+      </div>
+      {% include footer.html %}
+    </div>
+      <script type="text/javascript">
+      $( window ).load(function() {
+        $('.grid').isotope({
+        // options
+        itemSelector: '.grid-item',
+        layoutMode: 'vertical'
+      });
+      // init Isotope
+      var $grid = $('.grid').isotope({
+        // options
+      });
+      // filter items on button click
+      $('.filter-button-group').on( 'click', 'button', function() {
+        var filterValue = $(this).attr('data-filter');
+        $grid.isotope({ filter: filterValue });
+      });
+      // change is-checked class on buttons
+      $('.filter-button-group').each( function( i, buttonGroup ) {
+        var $buttonGroup = $( buttonGroup );
+        $buttonGroup.on( 'click', 'button', function() {
+          $buttonGroup.find('.is-checked').removeClass('is-checked');
+          $( this ).addClass('is-checked');
+        });
+      });
+})
+      </script>
+      <script>
+  var nav = responsiveNav(".nav-collapse", {
+    animate: true,
+    transition: 284,
+    label: "MENU",
+  });
+</script>
+  </body>
+
+</html>
