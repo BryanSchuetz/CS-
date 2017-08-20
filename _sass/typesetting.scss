@@ -1,0 +1,135 @@
+// 🎌Use the web-font loader to hide the flash of unstyled text—if Google fonts goes down, serve the next font in the stack🎌
+
+body{
+  visibility: hidden;
+  line-height: 1.5rem;
+}
+.wf-inactive body{
+  visibility: visible;
+  font-family: 'proxima-nova', Helvetica, sans-serif;
+  .page-title{
+    font-family: 'proxima-nova', Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 5rem;
+    text-align: center;
+    a{
+      color: #62AC5E;
+    }
+  }
+  h1, h2, h3, h4{
+    font-family: 'adelle-condensed', Georgia, serif;
+  }
+}
+blockquote{
+  border-left: 2px solid $theme-color;
+  padding-left: 2rem;
+  margin-left: 1rem;
+}
+.post-content{
+  li{
+    margin-bottom: 8px;
+  }
+}
+.wf-active body{
+  visibility: visible;
+  font-family: 'proxima-nova', Helvetica, sans-serif;
+  .page-title{
+    font-family: 'proxima-nova', Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 5rem;
+    text-align: center;
+    a{
+      color: #62AC5E;
+    }
+  }
+  h1, h2, h3, h4{
+    font-family: 'adelle-condensed', Georgia, serif;
+  }
+}
+h1, h2, h3, h4{
+  line-height: 2.3rem;
+}
+.page-title span{
+  position: relative;
+  top: -.1rem;
+  font-size: 5rem;
+  text-align: center;
+}
+.colophon{
+  font-family: 'adelle-condensed', Georgia, serif;
+  span{
+    display: inline-block;
+    width: .2rem;
+  }
+}
+.svg{
+  fill: currentColor;
+}
+
+nav a{
+  font-family: 'proxima-nova', Helvetica, sans-serif;
+  color: darken($theme-color, 10%)
+}
+.colophon{
+  font-family: 'proxima-nova', Helvetica, sans-serif;
+}
+nav a:hover{
+  border-bottom: 2px solid $theme-color;
+}
+
+hr{
+  border: none;
+  border-bottom: 1px solid $theme-color;
+}
+.lead-in{
+  font-size: .96rem;
+  line-height: 1.3rem;
+  font-style: italic;
+}
+// 🎌Navigational Links🎌
+.more a{
+  font-family: 'proxima-nova', Helvetica, sans-serif;
+}
+// 🎌Content🎌
+.post-details{
+  font-family: 'proxima-nova', Helvetica, sans-serif;
+  span{
+    padding: .15rem .3rem;
+  }
+}
+// 🎌Content Links🎌
+
+a{
+  text-decoration: none;
+  color: $theme-color;
+}
+a:hover{
+  color: darken($theme-color, 10%);
+}
+p.post-details--byline.without-style a{
+  background-color: white;
+  color: $theme-color;
+  padding: 0;
+}
+p.post-details--byline.without-style a:hover{
+  color: darken($theme-color, 10%);
+}
+a:not(.without-style){
+  background-color: #62AC5E;
+  padding: 1px 6px;
+  color: white;
+}
+a:not(.without-style):hover{
+  background-color: darken(#62AC5E, 10%);
+}
+
+/*a:not(.without-underline){
+  color: $theme-color;
+  font-weight: bold;
+  background-size: 2px 2px;
+  @include fancyUnderline();
+}
+a:not(.without-underline):hover{
+  background-size: 2px 2px;
+  color: darken($theme-color, 10%);
+}*/
