@@ -8,6 +8,7 @@ tags:
 - Human-centered design
 - Tag One
 Author: Karim Bin-Humam
+thumbnail: "/uploads/phone-thumbnail.png"
 ---
 
 Welcome to [GeekFest 2017](https://dai-global-digital.com/tags/?tag=geekfest-2017), a series of interviews featuring ICT4D thought leaders. Our goals for #GeekFest2017 are: to highlight the people and organizations who are pushing the field in new directions, to feature their work and show how it’s different or new, and to support the overall growth of the ICT4D community.

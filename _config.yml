@@ -33,7 +33,8 @@ defaults:
   values:
     Author: 
     layout: post
-    social-image: 
+    social-image:
+    thumbnail: "800 x 400"
 - scope:
     path: ''
     type: authors
