@@ -1,6 +1,6 @@
 ---
 title: 'Women in Agritech: Profiles from Ghana'
-date: 2017-05-29 13:54:00 -04:00
+date: 2017-05-29 17:54:00 Z
 tags:
 - Economic Growth
 - Entrepreneurship

@@ -1,20 +1,6 @@
-
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Site Config settings
+---
 title: A Unique Title
-theme-color: #75BB6E
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  This space is set aside for a basic couple o'sentence description of the site. What is it? What type of content should users expect to see here when they visit? Why should anyone care?
-featured-tags:
-  - Tag One
-  - Tag Two
-  - Tag Three
-  - Tag Four
-permalink: "/:title.html"
-excerpt_separator: "<!--more-->"
+timezone: UTC
 collections:
   authors:
     title: Authors
@@ -33,8 +19,8 @@ defaults:
   values:
     Author: 
     layout: post
-    social-image:
-    thumbnail: "800 x 400"
+    social-image: 
+    thumbnail: 800 x 400
 - scope:
     path: ''
     type: authors
@@ -42,17 +28,32 @@ defaults:
     layout: author
     Job: 
     Image: 
-# Build settings
+baseurl: ''
+url: ''
+theme-color: 
+email: your-email@domain.com
+description: 'This space is set aside for a basic couple o''sentence description of
+  the site. What is it? What type of content should users expect to see here when
+  they visit? Why should anyone care?
+
+'
+featured-tags:
+- Tag One
+- Tag Two
+- Tag Three
+- Tag Four
+permalink: "/:title.html"
+excerpt_separator: "<!--more-->"
 markdown: kramdown
 destination: "./build"
 theme: dai-blogs
-gems:
+gems: 
 exclude:
-  - ".gitignore"
-  - gulpfile.js
-  - package.json
-  - browser-sync.js
-  - ".jekyll-metadata"
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
+- ".gitignore"
+- gulpfile.js
+- package.json
+- browser-sync.js
+- ".jekyll-metadata"
+- Gemfile
+- Gemfile.lock
+- node_modules

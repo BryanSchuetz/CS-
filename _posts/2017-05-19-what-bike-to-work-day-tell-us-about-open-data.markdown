@@ -1,6 +1,6 @@
 ---
 title: What Bike to Work Day Tells Us About Open Data
-date: 2017-05-19 12:34:00 -04:00
+date: 2017-05-19 16:34:00 Z
 tags:
 - Data
 Author: "[Josh Linden](https://www.linkedin.com/in/josh-linden-9715391b/)"

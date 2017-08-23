@@ -1,6 +1,6 @@
 ---
 title: 'Lean Design for Development: A Practical Approach to Human-Centered Design'
-date: 2017-06-27 10:01:00 -04:00
+date: 2017-06-27 14:01:00 Z
 tags:
 - Human-centered design
 - Innovation
