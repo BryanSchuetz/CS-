@@ -1,6 +1,6 @@
 ---
 title: 6 Things I Have Learned About Delivering an Introductory ICT4D Training
-date: 2017-06-21 09:06:00 -04:00
+date: 2017-06-21 13:06:00 Z
 tags:
 - Think Piece
 - Innovation

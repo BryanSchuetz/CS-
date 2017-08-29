@@ -1,6 +1,6 @@
 ---
 title: 5 Things to Consider When Doing Mobile Data Collection
-date: 2017-07-06 13:28:00 -04:00
+date: 2017-07-06 17:28:00 Z
 tags:
 - Data
 - Tag Two
