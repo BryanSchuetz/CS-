@@ -27,7 +27,7 @@ defaults:
   values:
     layout: author
     Job: 
-    Image: 
+    Image: 235 x 235
 theme-color: 
 email: your-email@domain.com
 description: Where development and national security intersect.
