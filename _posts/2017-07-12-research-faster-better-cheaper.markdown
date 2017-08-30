@@ -19,7 +19,7 @@ DAI has been exploring ways to address this challenge. How can we conduct good r
 Throughout 2017, [ENGAGE](https://www.dai.com/our-work/projects/philippines-enhancing-governance-accountability-and-engagement-engage) partners in local government and civil society began raising concerns about the increased presence of violent extremist groups with links to the Islamic State and the influence they were exerting on youth in their communities. To better respond to the evolving dynamics of extremism in the region, the ENGAGE team saw the need for research to test prominent assumptions about the drivers of extremism to inform local responses to the crisis.
 
 ![ENGAGE.jpg](/uploads/ENGAGE.jpg)
-`Young students in the Philippines spell out the word "peace" during and ENGAGE activity.`
+`Young students in the Philippines spell out the word "peace" during an ENGAGE activity.`
 
 But how could this type of research be conducted on a tight budget? Small to medium sized projects often lack the capacity and technical capabilities to design and manage research. As such, these tasks are often contracted out. Local data collection firms are more affordable, but often lack methodological skills for more advanced research. International research and public opinion firms can provide these capabilities, but they come with a hefty price tag. 
 
