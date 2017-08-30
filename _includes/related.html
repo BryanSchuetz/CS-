@@ -26,7 +26,7 @@
         <!-- If the posts author is the author being shown -->
         {% if post.Author == page.title %}
           <!-- Show the post details -->
-          <li class="related-list-item"><a class="related-item-link" href="{{ post.url }}"><div class="related-item-image" style="background-image: url({% unless post.thumbnail == "" %}{{ post.thumbnail }}{% else %}/uploads/blog%20lean%20HCD.png{% endunless %});"></div><span class="related-item-text">{{ post.title }}</span></a></li>
+          <li class="related-list-item"><a class="related-item-link" href="{{ post.url }}"><div class="related-item-image" style="background-image: url({% unless post.thumbnail == "" %}{{ post.thumbnail }}{% else %}/uploads/thumb-default.jpg{% endunless %});"></div><span class="related-item-text">{{ post.title }}</span></a></li>
           {% assign cap = cap | plus: 1 %}
           {% assign got_related = true%}
         {% endif %}
