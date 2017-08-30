@@ -32,10 +32,8 @@ theme-color:
 email: your-email@domain.com
 description: Where development and national security intersect.
 featured-tags:
-- Tag One
-- Tag Two
-- Tag Three
-- Tag Four
+- Stabilization
+- Fragile States
 permalink: "/:title.html"
 excerpt_separator: "<!--more-->"
 baseurl: 
