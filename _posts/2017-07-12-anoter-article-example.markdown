@@ -1,5 +1,5 @@
 ---
-title: 'Another Article Example'
+title: Another Article Example
 date: 2017-07-12 21:03:00 Z
 tags:
 - Research
@@ -7,7 +7,7 @@ tags:
 - Fragile States
 Author: Janene Sawers
 social-image: "/uploads/ENGAGE.jpg"
-thumbnail: ""
+thumbnail: ''
 ---
 
 Anyone who has worked in transition or stabilization environments knows the value of good research. Despite its value to the development community, good research has two qualities that significantly constrain its applicability for professionals working in unstable environments: It takes time and its expensive. Even the best research, if it comes too late, is of little use in making decisions in real time. And good research can come with price tags that are out of reach for small and medium-sized projects, particularly research conducted in places experiencing conflict and instability.
