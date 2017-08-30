@@ -1,8 +1,4 @@
-
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Site Config settings
+---
 title: Checkpoint
 theme-color: #75BB6E
 email: your-email@domain.com
@@ -41,8 +37,8 @@ defaults:
     layout: author
     Job: 
     Image: 
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 theme-color: 
 email: your-email@domain.com
 description: Where development and national security intersect.
