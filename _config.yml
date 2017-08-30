@@ -6,8 +6,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 title: Checkpoint
 theme-color: #75BB6E
 email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  This space is set aside for a basic couple o'sentence description of the site. What is it? What type of content should users expect to see here when they visit? Why should anyone care?
+description: Where development and national security intersect.
 featured-tags:
   - Tag One
   - Tag Two
@@ -46,11 +45,7 @@ baseurl: ''
 url: ''
 theme-color: 
 email: your-email@domain.com
-description: 'This space is set aside for a basic couple o''sentence description of
-  the site. What is it? What type of content should users expect to see here when
-  they visit? Why should anyone care?
-
-'
+description: Where development and national security intersect.
 featured-tags:
 - Tag One
 - Tag Two
