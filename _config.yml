@@ -1,15 +1,6 @@
 ---
 title: Checkpoint
-theme-color: #75BB6E
-email: your-email@domain.com
-description: Where development and national security intersect.
-featured-tags:
-  - Tag One
-  - Tag Two
-  - Tag Three
-  - Tag Four
-permalink: "/:title.html"
-excerpt_separator: "<!--more-->"
+timezone: UTC
 collections:
   authors:
     title: Authors
@@ -37,8 +28,6 @@ defaults:
     layout: author
     Job: 
     Image: 
-baseurl: 
-url: 
 theme-color: 
 email: your-email@domain.com
 description: Where development and national security intersect.
@@ -49,6 +38,8 @@ featured-tags:
 - Tag Four
 permalink: "/:title.html"
 excerpt_separator: "<!--more-->"
+baseurl: 
+url: 
 markdown: kramdown
 destination: "./build"
 theme: dai-blogs
