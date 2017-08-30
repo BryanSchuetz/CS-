@@ -7,7 +7,6 @@ tags:
 - Fragile States
 Author: Janene Sawers
 social-image: "/uploads/ENGAGE.jpg"
-thumbnail: ''
 ---
 
 Anyone who has worked in transition or stabilization environments knows the value of good research. Despite its value to the development community, good research has two qualities that significantly constrain its applicability for professionals working in unstable environments: It takes time and its expensive. Even the best research, if it comes too late, is of little use in making decisions in real time. And good research can come with price tags that are out of reach for small and medium-sized projects, particularly research conducted in places experiencing conflict and instability.
@@ -16,7 +15,7 @@ Anyone who has worked in transition or stabilization environments knows the valu
 
 DAI has been exploring ways to address this challenge. How can we conduct good research, on short timelines, and with small budgets to inform programming approaches in transitional and stabilization environments? DAI’s Philippines ENGAGE project is currently testing a new approach to research based on collaboration between implementers, donors and local academic institutions that is promising to deliver methodologically sophisticated research, at modest costs, and on a reasonable timeline to inform CVE programming. How did they do it? Over the next few months I’ll write a few posts on this research project and its results, but today I’ll write about how the unique design of this project addresses the perennial problems of costs and timelines on research in transitional environments.
 
-Throughout 2017, [ENGAGE](https://www.dai.com/our-work/projects/philippines-enhancing-governance-accountability-and-engagement-engage) partners in local government and civil society began raising concerns about the increased presence of violent extremist groups with links to the Islamic State and the influence they were exerting on youth in their communities. To better respond to the evolving dynamics of extremism in the region, the ENGAGE team saw the need for research to test prominent assumptions about the drivers of extremism to inform local responses to the crisis.
+Throughout 2017, [ENGAGE](https://www.dai.com/our-work/projects/philippines-enhancing-governance-accountability-and-engagement-engage) partners in local government and civil society began raising concerns about the increased presence of violent extremist groups with links to the Islamic State and the influence they were exerting on youth in their communities. To better respond to the evolving dynamics of extremism in the region, the ENGAGE team saw the need for research to test prominent assumptions about the drivers of extremism to inform local responses to the crisis. 
 
 ![ENGAGE.jpg](/uploads/ENGAGE.jpg)
 `Young students in the Philippines spell out the word "peace" during an ENGAGE activity.`
