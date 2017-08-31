@@ -30,8 +30,10 @@ defaults:
     Image: 235 x 235
 theme-color: 
 email: your-email@domain.com
-description: |
-  **Where development and national security intersect.** Lorem ipsum dolor sit amet, eros etiam nec vivamus. Nec porta nulla nisl nunc, non nam justo tincidunt, ut litora praesent et urna donec, varius auctor condimentum nunc lacus urna deserunt, adipiscing eu dui. Suspendisse.
+description: "**Where development and national security intersect.** Lorem ipsum dolor
+  sit amet, eros etiam nec vivamus. Nec porta nulla nisl nunc, non nam justo tincidunt,
+  ut litora praesent et urna donec, varius auctor condimentum nunc lacus urna deserunt,
+  adipiscing eu dui. Suspendisse.\n"
 featured-tags:
 - Stabilization
 - Fragile States
