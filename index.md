@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-<p class="lead-in">{{ site.description }}</p>
+<p class="lead-in">{{ site.description | markdownify | remove: "<p>" | remove: "</p>" }}</p>
 <div class="home grid">
   {% assign posts = site.posts | sort: 'date' | reverse %}
   {% for post in posts %}
