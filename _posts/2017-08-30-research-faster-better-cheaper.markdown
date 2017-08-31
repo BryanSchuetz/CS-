@@ -1,6 +1,6 @@
 ---
 title: 'Research: Faster, Better, Cheaper'
-date: 2017-07-12 21:03:00 Z
+date: 2017-08-30 21:03:00 Z
 tags:
 - Research
 - Fragile States
