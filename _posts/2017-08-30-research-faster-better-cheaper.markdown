@@ -4,7 +4,7 @@ date: 2017-08-30 21:03:00 Z
 tags:
 - Research
 - Fragile States
-Author: "[Bryan Schuetz](linkedinurl.com)"
+Author: Janene Sawers
 social-image: "/uploads/ENGAGE.jpg"
 thumbnail: "/uploads/ENGAGE.jpg"
 ---
