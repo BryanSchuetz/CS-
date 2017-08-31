@@ -327,5 +327,7 @@ a.related-item-link{
   height: 150px;
   background-position: top;
   border-radius: 6px 6px 0px 0px;
-
+  @include responsive(wide-screens){
+    background-size: 115%;
+  }
 }

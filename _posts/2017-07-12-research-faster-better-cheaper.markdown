@@ -3,7 +3,6 @@ title: 'Research: Faster, Better, Cheaper'
 date: 2017-07-12 21:03:00 Z
 tags:
 - Research
-- Stabilization
 - Fragile States
 Author: Janene Sawers
 social-image: "/uploads/ENGAGE.jpg"
