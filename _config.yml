@@ -43,7 +43,7 @@ baseurl:
 url: 
 markdown: kramdown
 destination: "./build"
-theme: dai-blogs
+# theme: dai-blogs
 gems: 
 exclude:
 - ".gitignore"
