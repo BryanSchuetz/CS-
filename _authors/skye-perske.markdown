@@ -9,4 +9,4 @@ In her role as Project Team Director within the Center for Secure and Stable Sta
 
 * M.A., Near Eastern studies, University of Arizona 
 
-* B.A., politics and language studies, University of California, Santa Cruz
+* B.A., Politics and Language studies, University of California, Santa Cruz
