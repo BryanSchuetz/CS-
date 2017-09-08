@@ -1,9 +1,10 @@
 ---
 title: Megan Bromberg
 date: 2017-09-08 15:55:00 Z
+Image: "/uploads/Megan%20B%20Photo.jpg"
 ---
 
-Megan Bromberg is the Project Associate on two projects in Pakistan, PERSI and CRA, where she provides administrative and operational support to three regional field offices. Before joining DAI in August 2016, Megan worked as an M&E intern at the U.S. Department of State’s Bureau of Conflict and Stabilization Operations where she performed research on best practices for countering violent extremism and helped design surveys and indices for ongoing M&E projects in North Africa.  
+Megan Bromberg is a Project Associate in DAI's [Center for Security and Stable States](https://www.dai.com/our-work/solutions/fragile-states), providing administrative and operational support to two projects based in Pakistan. Before joining DAI in August 2016, Megan worked as an M&E intern at the U.S. Department of State’s Bureau of Conflict and Stabilization Operations where she performed research on best practices for countering violent extremism and helped design surveys and indices for ongoing M&E projects in North Africa.  
 
 <!--more-->
 
