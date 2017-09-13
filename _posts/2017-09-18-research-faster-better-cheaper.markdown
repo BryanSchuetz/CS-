@@ -23,8 +23,6 @@ The need for the research was clear, but how could this type of complex and soph
 
 # Three Poles of Research
 
-> Three poles of research: local universities, the ENGAGE Project, and CS3
-
 The first and most important pole in the research tent is the five regional universities that took on the central role of data collection for the project. The universities were perfect for this role for several reasons. First, they are located in the target regions for the assessment which reduced costs and time associated with standing up research teams in remote locations. Second, these universities have the relationships and local knowledge that facilitated access to remote and insecure regions and greatly aided in logistical planning and execution. Third, the universities had a ready supply of enumerators in the form of students who are from the region and speak local languages and dialects, greatly facilitating data collection.
 
 The second pole to the research tent is the ENGAGE staff who took responsibility for guiding the research planning and management. While these functions are often contracted out, ENGAGE developed new internal processes to keep the management in-house.  The biggest hurdle that had to be overcome was data management. Over 2200 surveys with over 110 distinct questions means over 240,000 distinct data points that need to be entered and stored in a usable format. ENGAGE designed a database and hired and trained a data entry team to manage the task. Finally, ENGAGE instituted data quality assurance processes to track and audit data quality throughout the data collection process.
