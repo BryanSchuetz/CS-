@@ -1,9 +1,11 @@
 ---
 title: 'Research: Faster, Better, Cheaper'
-date: 2017-08-30 21:03:00 Z
+date: 2017-09-18 12:00:00 Z
 tags:
 - Research
 - Fragile States
+- CVE
+- Radicalization
 social-image: "/uploads/ENGAGE.jpg"
 thumbnail: "/uploads/ENGAGE.jpg"
 ---
