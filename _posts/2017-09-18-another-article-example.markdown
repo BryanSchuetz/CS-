@@ -1,9 +1,8 @@
 ---
 title: Welcome to Checkpoint!
-date: 2017-07-12 21:03:00 Z
+date: 2017-09-18 00:00:00 Z
 tags:
-- Research
-- Stabilization
+- Fragile States
 Author: Tine Knott
 social-image: "/uploads/Checkpoint%20Logo.PNG"
 ---
