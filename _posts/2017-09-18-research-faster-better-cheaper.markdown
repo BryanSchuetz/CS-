@@ -10,7 +10,8 @@ social-image: "/uploads/ENGAGE.jpg"
 thumbnail: "/uploads/ENGAGE.jpg"
 ---
 
-Anyone who has worked in transition or stabilization environments knows the value of good research. Despite its value to the development community, good research has two qualities that significantly constrain its applicability for professionals working in unstable environments: It takes time and it is expensive. Even the best research, if it comes too late, is of little use in making decisions in real time. And good research can come with price tags that are out of reach for small and medium-sized projects, particularly research conducted in places experiencing conflict and instability.<!--more-->
+Anyone who has worked in transition or stabilization environments knows the value of good research. Despite its value to the development community, good research has two qualities that significantly constrain its applicability for professionals working in unstable environments: It takes time and it is expensive. Even the best research, if it comes too late, is of little use in making decisions in real time. And good research can come with price tags that are out of reach for small and medium-sized projects, particularly research conducted in places experiencing conflict and instability.
+<!--more-->
 
 DAI has been exploring ways to address this challenge. How can we conduct good research, on short timelines, and with small budgets to inform programming approaches in transitional and stabilization environments? DAI’s [Philippines ENGAGE](https://www.usaid.gov/philippines/democracy-human-rights-and-governance/engage) project is currently testing a new approach to research based on collaboration between implementers, donors and local academic institutions that is promising to deliver methodologically sophisticated research, at modest costs, and on a reasonable timeline to inform CVE programming.
 
