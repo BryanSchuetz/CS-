@@ -30,10 +30,7 @@ defaults:
     Image: 235 x 235
 theme-color: 
 email: your-email@domain.com
-description: "**Where development and national security intersect.** Lorem ipsum dolor
-  sit amet, eros etiam nec vivamus. Nec porta nulla nisl nunc, non nam justo tincidunt,
-  ut litora praesent et urna donec, varius auctor condimentum nunc lacus urna deserunt,
-  adipiscing eu dui. Suspendisse.\n"
+description: "**Where development and national security intersect.** Research, applied learning, and fierce debates about measuring success and failure, about embracing new ideas and technologies, and about adapting concepts and practices from both the development and national defense disciplines are the foundation on which we have built DAI’s [Center for Secure and Stable States](https://www.dai.com/news/dai-launches-the-center-for-secure-and-stable-states)."
 featured-tags:
 - Stabilization
 - Fragile States
