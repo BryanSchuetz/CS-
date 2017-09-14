@@ -331,9 +331,11 @@ a.related-item-link{
 .related-item-image{
   width: 100%;
   height: 150px;
-  background-position: top;
+  background-position: center;
   border-radius: 6px 6px 0px 0px;
+  background-repeat: no-repeat;
   @include responsive(wide-screens){
     background-size: 115%;
+    background-position: top;
   }
 }
