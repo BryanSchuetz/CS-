@@ -1,21 +1,9 @@
 ---
-title: About
+title: About This Blog
 permalink: "/about/"
 layout: page
 ---
 
-ADD HERE - WHAT IS THIS BLOG?
+The social critic and author Christopher Hitchens wrote: *What can be asserted without evidence can be dismissed without evidence*. Research, applied learning, and fierce debates about measuring success and failure, about embracing new ideas and technologies, and about adapting concepts and practices from both the development and national defense disciplines are the foundation on which we have built DAI’s [Center for Secure and Stable States](https://www.dai.com/news/dai-launches-the-center-for-secure-and-stable-states). Plainly stated, our goal is to “move the needle” on the complex problem sets of violent extremism and insurgency, political and security transitions, and community stabilization and cohesion. The purpose of this blog, therefore, is to create a community of practitioners with whom we can have these animated -- and at times difficult – conversations about how to broaden the evidence base to both achieve development impact and support U.S. national security interests around these problem sets.
 
-The **[Center for Secure and Stable States](https://www.dai.com/our-work/solutions/fragile-states)** integrates DAI’s technical and operational experience in designing, delivering, and monitoring projects in fragile states with research in the fields of peace-building and political transition, countering extremism, stabilization, and security and justice. The Center engages with local partners and international counterparts in the research, diplomatic, and military communities to deliver locally driven solutions to the economic, social, and political drivers of fragility, ideally before they manifest in conflict and instability. Our programs build resilient communities, empower moderate voices, rehabilitate and reintegrate ex-combatants, build accountable justice and security sector systems, and support stable and responsive institutions.
-
-* **Peace-Building and Political Transition**. At critical moments in a country’s transition process, we facilitate the sustainable rebuilding of communities by their own members while supporting progress toward legitimate governments that are better able to respond to the needs of their populations.
-
-* **Countering Extremism**. Our work, ranging from alternative digital
- messaging to empowering community-led interventions, seeks to avert and address extremist rhetoric and activities across the ideological
- spectrum using a range of preventing and countering extremism tools to reach vulnerable communities.
-
-* **Stabilization**. Working with government, civil, and private sector partners and building on our diverse experience and nuanced understanding of conflict dynamics in crisis environments, we act, assess, and adapt to
- address the root causes of instability and lay the foundation for
- sustainable peace and long-term development.
-
-* **Security and Justice**. In complex transitional justice and post-conflict environments, we support access to, accountability in, and the stability of formal and informal justice institutions, building the capacity of legitimate security and justice systems to deliver services and ensure citizen security.
+Our blog is edited by [Kevin Casey](dai-global-checkpoint.com/authors/kevin-casey/), CS3'S Director of Research. It is managed by [Janene Sawers](dai-global-checkpoint.com/authors/janene-sawers/), CS3's Program Manager for Countering Violent Extremism programming. 

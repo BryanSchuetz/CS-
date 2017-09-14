@@ -5,7 +5,7 @@ Job: Project Team Director
 Image: "/uploads/Perske,%20Skyelar%E2%80%9414--jpg--use%20this%20one.jpg"
 ---
 
-In her role as Project Team Director within the Center for Secure and Stable States, Skye Perske is focused on ensuring excellence in DAI programming, thought leadership in countering violent extremism (CVE), and new business activities. She oversees DAI’s CVE project portfolio, including programs in Kenya and the Philippines. 
+In her role as Project Team Director within the [Center for Secure and Stable States](https://www.dai.com/our-work/solutions/fragile-states), Skye Perske is focused on ensuring excellence in DAI programming, thought leadership in countering violent extremism (CVE), and new business activities. She oversees DAI’s CVE project portfolio, including programs in Kenya and the Philippines. 
 
 <!--more-->
 
