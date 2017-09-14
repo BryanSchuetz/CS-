@@ -5,3 +5,5 @@
 build
 Gemfile.lock
 node_modules
+.jekyll-metadata
+npm-debug.log
