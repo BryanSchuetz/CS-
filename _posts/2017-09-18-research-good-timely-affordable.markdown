@@ -21,9 +21,10 @@ How can we conduct good research, on short timelines, and with modest budgets to
 
 In 2017, ENGAGE partners in local government and civil society began raising concerns about the growing presence of violent extremist groups with links to the Islamic State and the influence they were exerting on young people in their communities. This simmering crisis was blown open by the [siege of Marawi City](http://www.cnn.com/2017/06/25/asia/philippines-marawi-isis/index.html) in northern Mindanao by IS-aligned fighters this May. To respond effectively, the ENGAGE team needed hard data to test assumptions about the drivers of extremism in the region.
 
-!\[Image\](/uploads/ENGAGE.jpg)
-
 The approach we took was a three-way partnership between ENGAGE, five universities in Mindanao, and DAI’s [Center for Secure and Stable States](https://www.dai.com/our-work/solutions/fragile-states) (CS3), with each taking responsibility for essential elements of the research process. In effect, ENGAGE created a three-pole research tent.
+
+![Image](/uploads/ENGAGE.jpg)
+
 
 The first and most important pole is the five regional universities, which took on data collection for the project. The universities were perfect for this role for several reasons. First, they are located in the target regions for the assessment, which reduces the costs and time associated with standing up research teams in remote locations. Second, they have the relationships and local knowledge that facilitate access to remote, insecure regions and aid in logistical planning and execution. Third, they have a ready supply of enumerators in the form of students native to the region and fluent in local languages and dialects, which greatly facilitates data collection.
 
