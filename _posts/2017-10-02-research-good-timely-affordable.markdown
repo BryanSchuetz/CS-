@@ -11,11 +11,11 @@ social-image: "/uploads/ENGAGE.jpg"
 thumbnail: "/uploads/ENGAGE.jpg"
 ---
 
-Anyone who has worked in transition or stabilization environments knows the value of good research. But good research tends to have two drawbacks that constrain its applicability for professionals working in unstable environments: it takes time and it’s expensive. Even the best research, if it comes too late, is of little use if you’re working in fast-moving situations. And good research is too often priced out of reach for small and medium-sized projects, particularly research conducted in places experiencing conflict and instability.
+Anyone who has worked in transition or stabilization environments knows the value of good research. But good research tends to have two drawbacks that constrain its applicability for professionals working in unstable environments: it takes time and it’s expensive. Even the best research, if it comes too late, is of little use if you’re working in fast-moving situations. And good research is too often priced out of reach for small and medium projects, particularly research conducted in places experiencing conflict and instability.
 
 <!--more-->
 
-How can we conduct good research, on short timelines, and with modest budgets to inform timely programming in such environments? DAI’s [Philippines ENGAGE](https://www.usaid.gov/philippines/democracy-human-rights-and-governance/engage) is testing a new approach based on collaboration between implementers, donors, and local academic institutions that promises to deliver affordable, methodologically sophisticated research on a reasonable timeline. We hope this new approach will inform our countering violent extremism (CVE) work in Mindanao.
+How can we conduct good research, on short timelines, and with modest budgets to inform timely programming in such environments? DAI’s [Philippines ENGAGE](https://www.dai.com/our-work/projects/philippines-enhancing-governance-accountability-and-engagement-engage) is testing a new approach based on collaboration between implementers, donors, and local academic institutions that promises to deliver affordable, methodologically sophisticated research on a reasonable timeline. We hope this new approach will inform our countering violent extremism (CVE) work in Mindanao.
 
 # Three Poles, One Tent
 
