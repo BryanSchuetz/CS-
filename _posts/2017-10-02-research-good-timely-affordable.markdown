@@ -1,6 +1,6 @@
 ---
 title: 'Good, Timely, Affordable Research: Can We Hit the Trifecta?'
-date: 2017-09-18 12:00:00 Z
+date: 2017-10-02 13:00:00 Z
 tags:
 - Research
 - Fragile States
