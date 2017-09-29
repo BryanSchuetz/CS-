@@ -1,5 +1,5 @@
 ---
-title: Welcome to Checkpoint!
+title: Welcome to Checkpoint
 date: 2017-10-02 00:00:00 Z
 tags:
 - Fragile States
