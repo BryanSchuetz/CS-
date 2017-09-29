@@ -25,9 +25,9 @@ The approach we took was a three-way partnership between ENGAGE, five universiti
 
 The first and most important pole is the five regional universities, which took on data collection for the project. The universities were perfect for this role for several reasons. First, they are located in the target regions for the assessment, which reduces the costs and time associated with standing up research teams in remote locations. Second, they have the relationships and local knowledge that facilitate access to remote, insecure regions and aid in logistical planning and execution. Third, they have a ready supply of enumerators in the form of students native to the region and fluent in local languages and dialects, which greatly facilitates data collection.
 
-The second pole to the research tent is the ENGAGE staff, who took responsibility for research planning and management. While these functions are often contracted out, ENGAGE developed new internal processes to keep them in-house. The biggest hurdle was data management: fielding more than 2,200 surveys asking 110 distinct questions means that more than 240,000 data points need to be entered and stored in a usable format. ENGAGE designed a database, hired and trained a data entry team to manage the task, and instituted quality assurance processes to audit data quality throughout.
-
 ![Image](/uploads/ENGAGE.jpg)
+
+The second pole to the research tent is the ENGAGE staff, who took responsibility for research planning and management. While these functions are often contracted out, ENGAGE developed new internal processes to keep them in-house. The biggest hurdle was data management: fielding more than 2,200 surveys asking 110 distinct questions means that more than 240,000 data points need to be entered and stored in a usable format. ENGAGE designed a database, hired and trained a data entry team to manage the task, and instituted quality assurance processes to audit data quality throughout.
 
 The third pole of the tent is CS3, which provided technical support in research design and analysis to ensure that the surveys meet the highest standards and use the latest methodologies in the field of CVE.
 
