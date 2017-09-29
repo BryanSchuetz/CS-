@@ -23,6 +23,9 @@ In 2017, ENGAGE partners in local government and civil society began raising con
 
 The approach we took was a three-way partnership between ENGAGE, five universities in Mindanao, and DAI’s [Center for Secure and Stable States](https://www.dai.com/our-work/solutions/fragile-states) (CS3), with each taking responsibility for essential elements of the research process. In effect, ENGAGE created a three-pole research tent.
 
+![Image](/uploads/ENGAGE.jpg)
+
+
 The first and most important pole is the five regional universities, which took on data collection for the project. The universities were perfect for this role for several reasons. First, they are located in the target regions for the assessment, which reduces the costs and time associated with standing up research teams in remote locations. Second, they have the relationships and local knowledge that facilitate access to remote, insecure regions and aid in logistical planning and execution. Third, they have a ready supply of enumerators in the form of students native to the region and fluent in local languages and dialects, which greatly facilitates data collection.
 
 The second pole to the research tent is the ENGAGE staff, who took responsibility for research planning and management. While these functions are often contracted out, ENGAGE developed new internal processes to keep them in-house. The biggest hurdle was data management: fielding more than 2,200 surveys asking 110 distinct questions means that more than 240,000 data points need to be entered and stored in a usable format. ENGAGE designed a database, hired and trained a data entry team to manage the task, and instituted quality assurance processes to audit data quality throughout.
