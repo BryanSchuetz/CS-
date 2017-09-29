@@ -19,7 +19,7 @@ How can we conduct good research, on short timelines, and with modest budgets to
 
 # Three Poles, One Tent
 
-In 2017, ENGAGE partners in local government and civil society began raising concerns about the growing presence of violent extremist groups with links to the Islamic State and the influence they were exerting on young people in their communities. This simmering crisis was blown open by the [siege of Marawi City](http://www.cnn.com/2017/06/25/asia/philippines-marawi-isis/index.html) in northern Mindanao by IS-aligned fighters this May. To respond effectively, the ENGAGE team needed hard data to test assumptions about the drivers of extremism in the region.
+In 2017, ENGAGE partners in local government and civil society began raising concerns about the growing presence of violent extremist groups with links to the Islamic State (IS) and the influence they were exerting on young people in their communities. This simmering crisis was blown open by the [siege of Marawi City](http://www.cnn.com/2017/06/25/asia/philippines-marawi-isis/index.html) in May in northern Mindanao by IS-aligned fighters. To respond effectively, the [ENGAGE](https://www.usaid.gov/philippines/democracy-human-rights-and-governance/engage) team needed hard data to test assumptions about the drivers of extremism in the region.
 
 The approach we took was a three-way partnership between ENGAGE, five universities in Mindanao, and DAI’s [Center for Secure and Stable States](https://www.dai.com/our-work/solutions/fragile-states) (CS3), with each taking responsibility for essential elements of the research process. In effect, ENGAGE created a three-pole research tent.
 
