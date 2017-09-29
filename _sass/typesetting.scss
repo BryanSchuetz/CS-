@@ -100,22 +100,22 @@ hr{
 
 a{
   text-decoration: none;
-  color: $theme-color;
+  color: darken($theme-color, 10%);
   font-weight: bold;
 }
 a:hover{
-  color: darken($theme-color, 10%);
+  color: darken($theme-color, 20%);
 }
 p.post-details--byline.without-style a{
   background-color: white;
-  color: $theme-color;
+  color: darken($theme-color, 10%);
   padding: 0;
 }
 p.post-details--byline.without-style a:hover{
-  color: darken($theme-color, 10%);
+  color: darken($theme-color, 20%);
 }
 a:not(.without-style){
-  background-color: #62AC5E;
+  background-color: lighten(#62AC5E, 15%);
   padding: 1px 6px;
   color: white;
 }
