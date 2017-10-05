@@ -7,6 +7,7 @@ tags:
 - Fragile States
 Author: Sean Caselli-Mechael
 social-image: "/uploads/23371230371_c0ded34b45_b.jpg"
+thumbnail: https://img.siteleaf.com/Ys3tG9w9-E-eaAQ_IgaOnKpVH3c=/fit-in/297x297/filters:dpr(2):quality(60):frames(0)/https://siteleaf-cdn.s3.amazonaws.com/599dea965328932886e8b860/assets/59d54c0cad31514df1608d81.jpg
 ---
 
 Since the [Bamako Agreement](http://www.aljazeera.com/news/2015/06/malian-rivals-sign-peace-deal-150620173301883.html) of 2015, the international security and development community has invested in significant stabilization programs for Northern Mali, and specifically the Timbuktu, Gao, and Kidal regions. Northern Mali and its roughly 1.3 million people are more engage and resilient as a result, but now “the center” of the country—home to 4.5 million Malians—appears to be rapidly destabilizing.
