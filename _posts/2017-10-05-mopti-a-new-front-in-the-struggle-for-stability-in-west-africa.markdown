@@ -1,7 +1,6 @@
 ---
 title: 'Mopti: A New Front in the Struggle for Stability in West Africa'
 date: 2017-10-05 14:36:00 Z
-published: false
 tags:
 - CVE
 - Research
