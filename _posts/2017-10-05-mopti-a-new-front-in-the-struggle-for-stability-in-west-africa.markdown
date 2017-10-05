@@ -1,7 +1,10 @@
 ---
 title: 'Mopti: A New Front in the Struggle for Stability in West Africa'
-date: 2017-10-04 14:36:00 Z
-published: false
+date: 2017-10-05 14:36:00 Z
+tags:
+- CVE
+- Research
+- Fragile States
 Author: Sean Caselli-Mechael
 social-image: "/uploads/23371230371_c0ded34b45_b.jpg"
 ---
@@ -13,6 +16,7 @@ Since the [Bamako Agreement](http://www.aljazeera.com/news/2015/06/malian-rivals
 The U.S. Agency for International Development and other donors are designing programs to address the growing crisis in Central Mali. The Mopti region requires particular attention for both economic and demographic reasons. Mopti is one of Mali’s primary agricultural and commercial hubs, and home to much of the country’s Fulani people, a largely pastoralist ethnic group spread across Burkina Faso, Guinea, Mali, Niger, Nigeria, and elsewhere. Unexpectedly, Al Qaeda has emerged as a real threat in the area, using new alliances with domestic violent extremist and insurgency groups to shed its label as a Tuareg-aligned violent extremist group active primarily in the North. Before programming begins, however, we need to take a closer look at Al-Qaeda-linked violence, and also understand and address the central role that local ethnic armed groups are playing in Mopti today.
 
 ![23371230371_c0ded34b45_b.jpg](/uploads/23371230371_c0ded34b45_b.jpg)
+`Representatives stand to open the Mali Peace Accord signature ceremony.`
 
 # Al Qaeda in Mopti—A Look at the Numbers
 
