@@ -1,6 +1,11 @@
 ---
 title: What to do about fake news? Ask Kenya.
-date: 2017-10-13 19:20:00 Z
+date: 2017-10-16 12:00:00 Z
+tags:
+- "#fakenews"
+- governance
+- transition
+Author: Skye Perske
 ---
 
 So-called fake news is an issue du jour in Washington and beyond. While it has undoubtedly been hyped for political reasons, fake news is real, its dangers clear and present—especially in unstable environments.
