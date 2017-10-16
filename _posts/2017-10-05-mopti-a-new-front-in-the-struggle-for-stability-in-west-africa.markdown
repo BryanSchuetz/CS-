@@ -10,7 +10,7 @@ social-image: "/uploads/23371230371_c0ded34b45_b.jpg"
 thumbnail: "/uploads/23371230371_c0ded34b45_b.jpg"
 ---
 
-Since the [Bamako Agreement](http://www.aljazeera.com/news/2015/06/malian-rivals-sign-peace-deal-150620173301883.html) of 2015, the international security and development community has invested in significant stabilization programs for Northern Mali, and specifically the Timbuktu, Gao, and Kidal regions. Northern Mali and its roughly 1.3 million people are more engage and resilient as a result, but now “the center” of the country—home to 4.5 million Malians—appears to be rapidly destabilizing.
+Since the [Bamako Agreement](http://www.aljazeera.com/news/2015/06/malian-rivals-sign-peace-deal-150620173301883.html) of 2015, the international security and development community has invested in significant stabilization programs for Northern Mali, and specifically the Timbuktu, Gao, and Kidal regions. Northern Mali and its roughly 1.3 million people are more engaged and resilient as a result, but now “the center” of the country—home to 4.5 million Malians—appears to be rapidly destabilizing.
 
 <!--more-->
 
