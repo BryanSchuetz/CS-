@@ -1,6 +1,7 @@
 ---
 title: Megan Bromberg
 date: 2017-09-08 15:55:00 Z
+Job: Project Associate
 Image: "/uploads/Megan%20B%20Photo.jpg"
 ---
 
