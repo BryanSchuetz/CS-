@@ -8,7 +8,7 @@ Erin Greenwalt is the Development Assistant for DAI’s [Center for Secure and S
 
 <!--more-->
 
-Previously, she worked with a Tanzanian organization that promotes women’s empowerment and traditional land rights on a David L. Boren Fellowship, and served as Program Assistant at Women in International Security (WIIS) programming events, academic round tables, and provided research assistance for their CVE programs. She speaks Swahili.
+Previously, she worked with a Tanzanian organization that promotes women’s empowerment and traditional land rights on a David L. Boren Fellowship, and served as Program Assistant at Women in International Security programming events, academic round tables, and provided research assistance for its countering violent extremism (CVE) programs. She speaks Swahili.
 
-* M.A., International Affairs, American University
-* B.A., Political Science, Southern Illinois University of Edwardsville
+* M.A., international affairs, American University
+* B.A., political science, Southern Illinois University of Edwardsville
