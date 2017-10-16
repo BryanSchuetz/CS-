@@ -10,7 +10,7 @@ social-image: "/uploads/Kenya%20Voting%20Photo.jpg"
 thumbnail: https://img.siteleaf.com/TOgL6BaZHShriIcWoSHEB23iDw0=/fit-in/297x297/filters:dpr(2):quality(60):frames(0)/https://siteleaf-cdn.s3.amazonaws.com/599dea965328932886e8b860/assets/59e4c6bd536d684ded562ee7.jpg
 ---
 
-![Kenya Voting Photo.jpg](/uploads/Kenya%20Voting%20Photo.jpg){:.float-left}So-called fake news is an issue *du jour* in Washington and beyond. While it has undoubtedly been hyped for political reasons, fake news is real, its dangers clear and present—especially in unstable environments.
+![Kenya Voting Photo.jpg](/uploads/Kenya%20Voting%20Photo.jpg){:.float-right}So-called fake news is an issue *du jour* in Washington and beyond. While it has undoubtedly been hyped for political reasons, fake news is real, its dangers clear and present—especially in unstable environments.
 
 Even in the United States, the Pizzagate conspiracy theory and subsequent [Comet Ping Pong](http://www.cnn.com/2017/06/22/politics/pizzagate-sentencing/index.html) shooting in Washington, D.C., in December 2016 shows how quickly fake news can turn to real violence. Internationally, journalist Stephanie Busari has shown how [fake news](https://www.ted.com/talks/stephanie_busari_how_fake_news_does_real_harm) allows us to be passive in dismissing real atrocities as “hoaxes,” highlighting how Nigerian authorities’ use of the label “fake news” led to loss of life and increased suffering for the Chibok girls of northern Nigeria at the hands of Boko Haram.
 
