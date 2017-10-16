@@ -14,6 +14,8 @@ So-called fake news is an issue *du jour* in Washington and beyond. While it has
 
 Even in the United States, the Pizzagate conspiracy theory and subsequent [Comet Ping Pong](http://www.cnn.com/2017/06/22/politics/pizzagate-sentencing/index.html) shooting in Washington, D.C., in December 2016 shows how quickly fake news can turn to real violence. Internationally, journalist Stephanie Busari has shown how [fake news](https://www.ted.com/talks/stephanie_busari_how_fake_news_does_real_harm) allows us to be passive in dismissing real atrocities as “hoaxes,” highlighting how Nigerian authorities’ use of the label “fake news” led to loss of life and increased suffering for the Chibok girls of northern Nigeria at the hands of Boko Haram.
 
+<!--more-->
+
 Kenya is a case study on the dangers of fake news, and a timely one given the imminent re-run of the national elections there. Although the 2013 elections were relatively peaceful, most Kenyans vividly remember the terrible violence that accompanied the 2007 elections in which up to 1,500 people were killed and many thousands displaced.
 
 Watching the local nightly news in Nairobi in the run-up to the August election, I could feel why tensions were high. Neither presidential candidate was saying the right things about respecting election results. Local party members were on talk shows night and day threatening to contest the outcome if results didn’t go their way. And fake news was rampant.
