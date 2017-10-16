@@ -2,7 +2,7 @@
 title: Janene Sawers
 date: 2017-08-30 19:39:00 Z
 Job: Blog Manager
-Image: "/uploads/janene.jpg"
+Image: "/uploads/JaneneImage.jfif"
 ---
 
 Janene Sawers is the Checkpoint blog manager and project manager for DAI's [Center for Secure and Stable States](https://www.dai.com/our-work/solutions/fragile-states), where she provides technical and operational oversight to CVE-related programs. For the three years prior, she managed development results within DAI's governance, CVE, transition, and stabilization portfolio in complex environments including the DRC, Kenya, Pakistan, Tunisia, and the West Bank. 
