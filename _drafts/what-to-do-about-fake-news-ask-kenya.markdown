@@ -1,5 +1,5 @@
 ---
-title: What to do About Fake News? Ask Kenya.
+title: What to do About Fake News? Ask Kenya
 date: 2017-10-16 12:00:00 Z
 tags:
 - "#fakenews"
@@ -8,9 +8,9 @@ tags:
 Author: Skye Perske
 ---
 
-So-called fake news is an issue du jour in Washington and beyond. While it has undoubtedly been hyped for political reasons, fake news is real, its dangers clear and present—especially in unstable environments.
+So-called fake news is an issue *du jour* in Washington and beyond. While it has undoubtedly been hyped for political reasons, fake news is real, its dangers clear and present—especially in unstable environments.
 
-Even in the United States, the Pizzagate conspiracy theory and subsequent [Comet Ping Pong](http://www.cnn.com/2017/06/22/politics/pizzagate-sentencing/index.html) shooting in Washington, DC in December 2016 shows how quickly fake news can turn to real violence. Internationally, journalist Stephanie Busari has shown how [fake news allows us to be passive in dismissing real atrocities](https://www.ted.com/talks/stephanie_busari_how_fake_news_does_real_harm) as "hoaxes," highlighting how Nigerian authorities' use of the label "fake new" led to loss of life and increased suffering for the Chibok girls of northern Nigeria at the hands of Boko Haram.
+Even in the United States, the Pizzagate conspiracy theory and subsequent [Comet Ping Pong](http://www.cnn.com/2017/06/22/politics/pizzagate-sentencing/index.html) shooting in Washington, D.C., in December 2016 shows how quickly fake news can turn to real violence. Internationally, journalist Stephanie Busari has shown how [fake news](https://www.ted.com/talks/stephanie_busari_how_fake_news_does_real_harm) allows us to be passive in dismissing real atrocities\] as “hoaxes,” highlighting how Nigerian authorities’ use of the label “fake news” led to loss of life and increased suffering for the Chibok girls of northern Nigeria at the hands of Boko Haram.
 
 Kenya is a case study on the dangers of fake news, and a timely one given the imminent re-run of the national elections there. Although the 2013 elections were relatively peaceful, most Kenyans vividly remember the terrible violence that accompanied the 2007 elections in which up to 1,500 people were killed and many thousands displaced.
 
@@ -18,7 +18,7 @@ Watching the local nightly news in Nairobi in the run-up to the August election,
 
 A prime example was the resurgence of stories about the Mungiki, an ethnic organization banned in Kenya after being linked to election violence in 2007 and 2008. Falsified videos of a woman claiming her apartment was under siege by Mungiki made the rounds on Facebook and Whatsapp before being discredited and removed. Four National Super Alliance (NASA) groups claimed that Mungiki in police uniforms were attacking NASA supporters in Kibera (police eventually removed an individual who was wearing a uniform but had not attacked anyone). While the sources were different, the purpose of these and other stories was the same: to foment unrest during the election.
 
-Fake news was both widely disseminated -- including on CNN, BBC, and NTV Kenya -- and [widely realized to be fabricated](http://www.aljazeera.com/indepth/opinion/2017/08/kenya-latest-victim-fake-news-170816121455181.html). A [study](https://cdn2.hubspot.net/hubfs/325431/The-Reality-of-Fake-News-in-Kenya%20-%20FINAL.pdf?t=1502723966924) by GeoPoll and Portland ahead of the August ballot found that 87 percent of Kenyans polled had seen information they suspected to be deliberately false. 
+Fake news was both widely disseminated -- including on CNN, BBC, and NTV Kenya -- and [widely realized to be fabricated](http://www.aljazeera.com/indepth/opinion/2017/08/kenya-latest-victim-fake-news-170816121455181.html). A [study](https://cdn2.hubspot.net/hubfs/325431/The-Reality-of-Fake-News-in-Kenya%20-%20FINAL.pdf?t=1502723966924) by GeoPoll and Portland ahead of the August ballot found that 87 percent of Kenyans polled had seen information they suspected to be deliberately false.
 
 A number of "top-down" approaches have been taken to combat this threat. Facebook [launched a tool](https://qz.com/1044573/facebook-and-whatsapp-introduce-fake-news-tool-ahead-of-kenya-elections/) to track and combat fake news in the run-up to the election. The Government of Kenya issued *Guidelines on prevention of dissemination of undesirable bulk and premium rate political messages and political social media content via electronic communications networks*, or [guidelines to countering fake news](http://www.aljazeera.com/indepth/opinion/2017/08/kenya-latest-victim-fake-news-170816121455181.html).
 
