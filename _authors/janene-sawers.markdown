@@ -9,8 +9,7 @@ Janene Sawers is the Checkpoint blog manager and project manager for DAI’s [Ce
 
 <!--more-->
 
-In her current role, Janene ensures the programs she manages run smoothly, efficiently, and compliantly both from the Home Office and through targeted field assignments, particularly at start-up. An expert in conflict management and transformation, Janene started her career as a Senior Program Assistant at the US Institute of Peace (USIP), where she managed the Jennings Randolph Senior Fellowship program, as well as supporting research activities related to gender and conflict and youth and conflict. She has also worked with USAID/OTI, Mercy Corps, and the International Peace and Security Institute (IPSI).
+In her current role, Janene ensures the programs she manages run smoothly, efficiently, and compliantly both from the home office and through targeted field assignments, particularly at start-up. An expert in conflict management and transformation, Janene started her career as a Senior Program Assistant at the U.S. Institute of Peace, where she managed the Jennings Randolph Senior Fellowship program, as well as supporting research activities related to gender and conflict and youth and conflict. She has also worked with USAID/OTI, Mercy Corps, and the International Peace and Security Institute (IPSI).
 
-* M.A., Security Policy studies, George Washington University
-
-* B.A., Political Science, University of Michigan
+* M.A., security policy studies, George Washington University
+* B.A., political science, University of Michigan
