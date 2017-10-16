@@ -7,7 +7,7 @@ tags:
 - transition
 Author: Skye Perske
 social-image: "/uploads/Kenya%20Voting%20Photo.jpg"
-thumbnail: https://img.siteleaf.com/TOgL6BaZHShriIcWoSHEB23iDw0=/fit-in/297x297/filters:dpr(2):quality(60):frames(0)/https://siteleaf-cdn.s3.amazonaws.com/599dea965328932886e8b860/assets/59e4c6bd536d684ded562ee7.jpg
+thumbnail: "/uploads/Kenya%20Voting%20Photo.jpg"
 ---
 
 ![Kenya Voting Photo.jpg](/uploads/Kenya%20Voting%20Photo.jpg){:.float-left}So-called fake news is an issue *du jour* in Washington and beyond. While it has undoubtedly been hyped for political reasons, fake news is real, its dangers clear and present—especially in unstable environments.
