@@ -5,7 +5,7 @@ Job: New Business Manager
 Image: "/uploads/seanINNER_1.jpg"
 ---
 
-Sean Caselli-Mechael is the New Business Manager for the [Center for Secure and Stable State](https://www.dai.com/our-work/solutions/fragile-states)s. Since joining DAI in 2014, Sean has supported DAI’s Office of Transition Initiatives, countering violent extremism, governance, and information and communications technology practices in a variety of roles. He specializes in business development and portfolio strengthening, assessments, and startup operations for political and post-conflict transition programming. 
+Sean Caselli-Mechael is the New Business Manager for the [Center for Secure and Stable States](https://www.dai.com/our-work/solutions/fragile-states). Since joining DAI in 2014, Sean has supported DAI’s Office of Transition Initiatives, countering violent extremism, governance, and information and communications technology practices in a variety of roles. He specializes in business development and portfolio strengthening, assessments, and startup operations for political and post-conflict transition programming. 
 
 <!--more-->
 
