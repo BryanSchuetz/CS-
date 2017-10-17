@@ -15,7 +15,7 @@ Anyone who has worked in transition or stabilization environments knows the valu
 
 <!--more-->
 
-How can we conduct good research, on short timelines, and with modest budgets to inform timely programming in such environments? DAI’s [Philippines ENGAGE](https://www.dai.com/our-work/projects/philippines-enhancing-governance-accountability-and-engagement-engage) is testing a new approach based on collaboration between implementers, donors, and local academic institutions that promises to deliver affordable, methodologically sophisticated research on a reasonable timeline. We hope this new approach will inform our countering violent extremism (CVE) work in Mindanao.
+How can we conduct good research, on short timelines, and with modest budgets to inform timely programming in such environments? DAI’s [Philippines ENGAGE](https://www.dai.com/our-work/projects/philippines-enhancing-governance-accountability-and-engagement-engage) project is testing a new approach based on collaboration between implementers, donors, and local academic institutions that promises to deliver affordable, methodologically sophisticated research on a reasonable timeline. We hope this new approach will inform our countering violent extremism (CVE) work in Mindanao.
 
 # Three Poles, One Tent
 
