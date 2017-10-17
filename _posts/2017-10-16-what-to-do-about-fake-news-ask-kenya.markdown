@@ -2,9 +2,9 @@
 title: What To Do About Fake News? Ask Kenya
 date: 2017-10-16 12:00:00 Z
 tags:
-- "#fakenews"
-- governance
-- transition
+- "#FakeNews"
+- Governance
+- Transition
 Author: Skye Perske
 social-image: "/uploads/Kenya%20Voting%20Photo.jpg"
 thumbnail: "/uploads/Kenya%20Voting%20Photo.jpg"
