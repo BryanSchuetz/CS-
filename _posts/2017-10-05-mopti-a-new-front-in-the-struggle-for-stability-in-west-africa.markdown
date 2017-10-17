@@ -25,14 +25,12 @@ Using data from the [Armed Conflict Location and Event Data Project (ACLED)](htt
 
 It’s not much of a leap to attribute this escalation to the creation of JNIM. ACLED reports that since March, JNIM and its affiliates have carried out 29 attacks in Mopti, more than the prior 50 months combined. JNIM is now attacking targets in Mopti at a rate of more than four times per month, whereas before we saw one attack every three to four months.
 
-# So This Is an Al-Qaeda problem, Right?
+# So This Is An Al-Qaeda Problem, Right?
 
 Surprisingly, while JNIM has claimed 50.8 percent of the attacks in Mopti since March, it is only responsible for 30 of the reported 165 fatalities, or 18.2 percent. In contrast, local ethnic armed groups—Bambara, Dogon, and Fulani ethnic militias, as well as unidentified armed groups, vigilantes, and communal militias—have been responsible for the majority of the mass casualty events in the region. For example:
 
 * In June, the assassination of a Dogon hunter by a Fulani prompted three days of clashes between Fulani and Dogon militias in Diougani. ACLED reported 27 casualties but noted that at least 90 people may have died in the attacks.
-
 * In April, seven Bambara hunters were killed and their leader captured during an attack against a Fulani self-defense group’s position in Tenenkou Cercle.
-
 * Five separate attacks by Bambara militias on Fulani militias have resulted in 38 casualties.
 
 While JNIM and Salafi-Jihadist radicalization are important factors in central Mali’s changing landscape of violent extremism, the increased activity of ethnic armed groups in Mopti is an equally important part of a disturbing story: security and stability is deteriorating in “the center” not because of a single group or event, but because of a breakdown in social order and cohesion in one of Mali’s most populous regions.
