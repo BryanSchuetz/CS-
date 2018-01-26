@@ -10,7 +10,7 @@ Author: Megan Bromberg
 
 Recent research by DAI’s ENGAGE project in Mindanao demonstrates that while membership in violent extremist groups is overwhelmingly male, there is limited evidence to suggest that support for VE ideologies differs fundamentally between the sexes.
 
-While this research is specific to a particular region of the Philippines, we have encountered similar dynamics elsewhere. If we are looking to prevent violent extremism (PVE) on a more comprehensive basis, therefore, we must find ways to [engage women as well as men](https://www.usip.org/publications/2015/05/women-preventing-violent-extremism).
+While this research is specific to a particular region of the Philippines, we have encountered similar dynamics elsewhere. If we are looking to prevent violent extremism (PVE) on a more comprehensive basis, therefore, we must find ways to[engage women as well as men](https://www.usip.org/publications/2015/05/women-preventing-violent-extremism).
 
 Unfortunately, PVE programming is all too often slanted toward men. In Pakistan, for example, while DAI supports numerous programs that focus on women—ranging from capacity building to conflict resolution training—men continue to make up the large majority of our partners and beneficiaries.
 
