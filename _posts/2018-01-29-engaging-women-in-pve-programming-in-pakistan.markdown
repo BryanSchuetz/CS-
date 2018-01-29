@@ -15,7 +15,7 @@ While this research is specific to a particular region of the Philippines, we ha
 
 Unfortunately, PVE programming is all too often slanted toward men. In Pakistan, for example, while DAI supports numerous programs that focus on women—ranging from capacity building to conflict resolution training—men continue to make up the large majority of our partners and beneficiaries.
 
-To some extent, this disproportionate emphasis on men can be justified by their domination of VE groups. But if the under-representation of women is simply a reflection of broader social norms that exclude women, limit their mobility, and restrict their engagements with men, that is something we can and should do something about.
+To some extent, this disproportionate emphasis on men can be justified by their domination of extremist groups. But if the under-representation of women is simply a reflection of broader social norms that exclude women, limit their mobility, and restrict their engagements with men, that is something we can and should do something about.
 
 Lindsay North, an M&E manager who supports DAI’s PVE programming in Pakistan, offers practical suggestions for overcoming some of the cultural obstacles to engaging women:
 
