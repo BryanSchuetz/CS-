@@ -25,7 +25,7 @@ To some extent, this disproportionate emphasis on men can be justified by their 
 
 Our experience in Afghanistan, Pakistan, Somalia, and other traditional societies provides some practical suggestions for overcoming some of the cultural obstacles to engaging women:
 
-* **Reach out to community leaders.** Before engaging women directly, reach out to elders or other respected figures in the community. Winning approval, or at least a hearing, from community leaders will counteract the assumption that nongovernmental organizations are pushing a western agenda and lack respect for local customs and structures. It also gives local leaders a chance to provide may prove valuable advice to program organizers.
+* **Reach out to community leaders.** Before engaging women directly, reach out to elders or other respected figures in the community. Winning approval, or at least a hearing, from community leaders will counteract the assumption that nongovernmental organizations are pushing a western agenda and lack respect for local customs and structures. It also gives local leaders a chance to provide what may prove valuable advice to program organizers.
 
 * **Anticipate opposition.** In most cases, PVE activities designed for women should also be run by women, and many programs may also be designed solely for women and girls—which will fall in line with local norms favoring the separation of the sexes. The flip side of this segregation is potential backlash from men who believe they are being excluded.
 
