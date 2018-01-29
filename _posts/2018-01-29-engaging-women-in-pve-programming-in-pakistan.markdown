@@ -7,6 +7,8 @@ tags:
 - Gender
 - Radicalization
 Author: Megan Bromberg
+social-image: "/uploads/Women_and_girls_in_Qamber,_Shadadkot,_north-west_Sindh,_Pakistan_(8406155976)-6e4895.jpg"
+thumbnail: "/uploads/Women_and_girls_in_Qamber,_Shadadkot,_north-west_Sindh,_Pakistan_(8406155976)-6e4895.jpg"
 ---
 
 Recent research by DAI’s [Enhancing Governance, Accountability, and Engagement (ENGAGE)](https://www.dai.com/our-work/projects/philippines-enhancing-governance-accountability-and-engagement-engage) project team in Mindanao demonstrates that while membership in violent extremist groups is overwhelmingly male, there is limited evidence to suggest that support for violent extremist ideologies differs fundamentally between the sexes.
