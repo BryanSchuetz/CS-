@@ -19,9 +19,9 @@ To some extent, this disproportionate emphasis on men can be justified by their 
 
 Lindsay North, a monitoring and evaluation manager who supports DAI’s PVE programming in Pakistan, offers practical suggestions for overcoming some of the cultural obstacles to engaging women:
 
-* **Reach out to community leaders.** Before engaging women directly, reach out to the elders or other respected figures in the community. Winning approval, or at least a hearing, from community leaders will counteract the assumption that NGOs are pushing a western agenda and lack respect for local customs and structures. It also gives local leaders a chance to provide may prove valuable advice to program organizers.
+* **Reach out to community leaders.** Before engaging women directly, reach out to elders or other respected figures in the community. Winning approval, or at least a hearing, from community leaders will counteract the assumption that nongovernmental organizations are pushing a western agenda and lack respect for local customs and structures. It also gives local leaders a chance to provide may prove valuable advice to program organizers.
 
-* **Anticipate opposition.** In most cases, PVE activities designed for women should also be run by women, and many programs may also be designed solely for women and girls -- which will fall in line with local norms favoring the separation of the sexes. But the flip side of this segregation is potential backlash from men who believe they are being excluded.
+* **Anticipate opposition.** In most cases, PVE activities designed for women should also be run by women, and many programs may also be designed solely for women and girls—which will fall in line with local norms favoring the separation of the sexes. But the flip side of this segregation is potential backlash from men who believe they are being excluded.
 
 * **Find the right space.** Cultural norms often restrict women from socializing in public. Consider holding meetings in the home or in culturally sanctioned community centers where women feel comfortable.
 
