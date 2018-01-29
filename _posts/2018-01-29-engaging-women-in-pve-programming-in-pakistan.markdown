@@ -17,7 +17,7 @@ Unfortunately, PVE programming is all too often slanted toward men. In Pakistan,
 
 To some extent, this disproportionate emphasis on men can be justified by their domination of extremist groups. But if the under-representation of women is simply a reflection of broader social norms that exclude women, limit their mobility, and restrict their engagements with men, that is something we can and should do something about.
 
-Lindsay North, an M&E manager who supports DAI’s PVE programming in Pakistan, offers practical suggestions for overcoming some of the cultural obstacles to engaging women:
+Lindsay North, a monitoring and evaluation manager who supports DAI’s PVE programming in Pakistan, offers practical suggestions for overcoming some of the cultural obstacles to engaging women:
 
 * **Reach out to community leaders.** Before engaging women directly, reach out to the elders or other respected figures in the community. Winning approval, or at least a hearing, from community leaders will counteract the assumption that NGOs are pushing a western agenda and lack respect for local customs and structures. It also gives local leaders a chance to provide may prove valuable advice to program organizers.
 
