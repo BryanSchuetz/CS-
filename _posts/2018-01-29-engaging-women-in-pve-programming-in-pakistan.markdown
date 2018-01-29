@@ -19,7 +19,7 @@ Unfortunately, PVE programming is all too often slanted toward men. In Pakistan,
 
 To some extent, this disproportionate emphasis on men can be justified by their domination of extremist groups. But if the under-representation of women is simply a reflection of broader social norms that exclude women, limit their mobility, and restrict their engagements with men, that is something we can and should do something about.
 
-![Women_and_girls_in_Qamber,_Shadadkot,_north-west_Sindh,_Pakistan_(8406155976)-6e4895.jpg](/uploads/Women_and_girls_in_Qamber,_Shadadkot,_north-west_Sindh,_Pakistan_(8406155976)-6e4895.jpg)'Women and girls in Shadadkot, north-west Sindh, Pakistan. Photo: Magnus Wolfe-Murra/DFID'
+![Women_and_girls_in_Qamber,_Shadadkot,_north-west_Sindh,_Pakistan_(8406155976)-6e4895.jpg](/uploads/Women_and_girls_in_Qamber,_Shadadkot,_north-west_Sindh,_Pakistan_(8406155976)-6e4895.jpg)`Women and girls in Shadadkot, north-west Sindh, Pakistan. Photo: Magnus Wolfe-Murra/DFID'
 
 Lindsay North, a monitoring and evaluation manager who supports DAI’s PVE programming in Pakistan, offers practical suggestions for overcoming some of the cultural obstacles to engaging women:
 
