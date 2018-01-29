@@ -11,13 +11,15 @@ Author: Megan Bromberg
 
 Recent research by DAI’s [Enhancing Governance, Accountability, and Engagement (ENGAGE)](https://www.dai.com/our-work/projects/philippines-enhancing-governance-accountability-and-engagement-engage) project team in Mindanao demonstrates that while membership in violent extremist groups is overwhelmingly male, there is limited evidence to suggest that support for violent extremist ideologies differs fundamentally between the sexes.
 
+<!--more-->
+
 While this research is specific to a particular region of the Philippines, we have encountered similar dynamics elsewhere. If we are looking to prevent violent extremism (PVE) on a more comprehensive basis, therefore, we must find ways to [engage women as well as men](https://www.usip.org/publications/2015/05/women-preventing-violent-extremism).
 
 Unfortunately, PVE programming is all too often slanted toward men. In Pakistan, for example, while DAI supports numerous programs that focus on women—ranging from capacity building to conflict resolution training—men continue to make up the large majority of our partners and beneficiaries.
 
 To some extent, this disproportionate emphasis on men can be justified by their domination of extremist groups. But if the under-representation of women is simply a reflection of broader social norms that exclude women, limit their mobility, and restrict their engagements with men, that is something we can and should do something about.
 
-![Women_and_girls_in_Qamber,_Shadadkot,_north-west_Sindh,_Pakistan_(8406155976).jpg "Women and girls in Shadadkot, north-west Sindh, Pakistan. Photo: Magnus Wolfe-Murra/DFID"]
+![Women_and_girls_in_Qamber,_Shadadkot,_north-west_Sindh,_Pakistan_(8406155976)-6e4895.jpg](/uploads/Women_and_girls_in_Qamber,_Shadadkot,_north-west_Sindh,_Pakistan_(8406155976)-6e4895.jpg)'Women and girls in Shadadkot, north-west Sindh, Pakistan. Photo: Magnus Wolfe-Murra/DFID'
 
 Lindsay North, a monitoring and evaluation manager who supports DAI’s PVE programming in Pakistan, offers practical suggestions for overcoming some of the cultural obstacles to engaging women:
 
