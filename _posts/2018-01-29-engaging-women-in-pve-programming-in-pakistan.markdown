@@ -1,5 +1,5 @@
 ---
-title: Engaging Women in PVE Programming in Pakistan
+title: Engaging Women in PVE Programming
 date: 2018-01-29 10:00:00 Z
 published: false
 tags:
@@ -19,18 +19,22 @@ While this research is specific to a particular region of the Philippines, we ha
 
 Unfortunately, PVE programming is all too often slanted toward men. In Pakistan, for example, while DAI supports numerous programs that focus on women—ranging from capacity building to conflict resolution training—men continue to make up the large majority of our partners and beneficiaries.
 
-To some extent, this disproportionate emphasis on men can be justified by their domination of extremist groups. But if the under-representation of women is simply a reflection of broader social norms that exclude women, limit their mobility, and restrict their engagements with men, that is something we can and should do something about.
+To some extent, this disproportionate emphasis on men can be justified by their domination of extremist groups. However, if the under-representation of women is simply a reflection of broader social norms that exclude women, limit their mobility, and restrict their engagements with men, that is something we can and should do something about.
 
 ![Women_and_girls_in_Qamber,_Shadadkot,_north-west_Sindh,](/uploads/pakistan-image.jpg)
 `Women and girls in Shadadkot, north-west Sindh, Pakistan. Photo: Magnus Wolfe-Murra/DFID`
 
-Lindsay North, a monitoring and evaluation manager who supports DAI’s PVE programming in Pakistan, offers practical suggestions for overcoming some of the cultural obstacles to engaging women:
+Our experience in Afghanistan, Pakistan, Somalia, and other traditional societies provides some practical suggestions for overcoming some of the cultural obstacles to engaging women:
 
 * **Reach out to community leaders.** Before engaging women directly, reach out to elders or other respected figures in the community. Winning approval, or at least a hearing, from community leaders will counteract the assumption that nongovernmental organizations are pushing a western agenda and lack respect for local customs and structures. It also gives local leaders a chance to provide may prove valuable advice to program organizers.
-* **Anticipate opposition.** In most cases, PVE activities designed for women should also be run by women, and many programs may also be designed solely for women and girls—which will fall in line with local norms favoring the separation of the sexes. But the flip side of this segregation is potential backlash from men who believe they are being excluded.
+
+* **Anticipate opposition.** In most cases, PVE activities designed for women should also be run by women, and many programs may also be designed solely for women and girls—which will fall in line with local norms favoring the separation of the sexes. The flip side of this segregation is potential backlash from men who believe they are being excluded.
+
 * **Find the right space.** Cultural norms often restrict women from socializing in public. Consider holding meetings in the home or in culturally sanctioned community centers where women feel comfortable.
+
 * **Embrace the escorts.** Women attending meetings may be under the supervision of a male escort, who will take them to and from activities. Grating as this may be to western sensibilities, it can in fact open up opportunities to engage these men in constructive activities, perhaps shining a light on PVE and gender dynamics while at the same time mitigating any exclusion they might feel (see above).
-* **Establish a non-PVE beach-head.** In many parts of Pakistan, announcing a PVE-focused program exclusively for women is a recipe for community rejection. Consider combining PVE activities with other components such as livelihood training that will appeal to women and their male relatives. Once a relationship has been forged, you can shift to more PVE-focused work, though the danger here is that the PVE component can become an afterthought rather than the primary focus of engagement.
+
+* **Establish a non-PVE beach-head.** In many parts of the world, announcing a PVE-focused program exclusively for women is a recipe for community rejection. Consider combining PVE activities with other components such as livelihood training that will appeal to women and their male relatives. Once a relationship has been forged, you can shift to more PVE-focused work, though the danger here is that the PVE component can become an afterthought rather than the primary focus of engagement.
 
 Which leads us to the question: What should PVE engagement for women look like? That, I’m afraid, is a post for another day, but on that [broad subject](https://reliefweb.int/report/world/women-and-countering-violent-extremism) let me end with a shout-out to Pakistani activist and local leader Mossarat Qadeem.
 
