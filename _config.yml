@@ -42,7 +42,7 @@ featured-tags:
 permalink: "/:title.html"
 excerpt_separator: "<!--more-->"
 baseurl: 
-url: 
+url: https://dai-global-checkpoint.com
 markdown: kramdown
 destination: "./build"
 gems: 
