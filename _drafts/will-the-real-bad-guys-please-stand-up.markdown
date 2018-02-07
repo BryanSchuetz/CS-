@@ -16,6 +16,7 @@ One of the most acute challenges of working in conflict zones is differentiating
 Development practitioners are tasked to work within and around these conflict environments, often with the goal of building up the legitimacy of preferred parties while marginalizing extremist groups. The challenges here are hardly academic: witness the media uproar over British donor funds allegedly finding their way into the hands of extremists in Syria. It is essential for development professionals to understand the distinction between legitimate conflict actors and extremist groups. But how?
 
 ![ASL_et_YPG_Tall_Abyad_juin_2015.PNG](/uploads/ASL_et_YPG_Tall_Abyad_juin_2015.PNG)
+`This is the caption for this photo`
 
 Members of ASL and YPG in Tall Abyad c. June 24,2015. Photo: Voices of America
 The easy answer is that extremist groups are on the U.S. State Department’s list of Designated Terrorist Organizations. This list is well known in development circles and international programs are all too familiar with the laborious vetting required to ensure that donor funds do not intentionally or unintentionally end up benefiting extremists. However, this list hardly includes all the world’s extremist groups and while compliance with this list is necessary, it is not sufficient to ensure that our activities do not benefit extremists, particularly in complex environments where groups and alliances are constantly in flux.
