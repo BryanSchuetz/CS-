@@ -9,7 +9,7 @@ tags:
 Author: Kevin Casey
 ---
 
-## A review of "Conflict, Violent Extremism and Development: New Challenges, New Responses"
+## A review of "Conflict, Violent Extremism and Development: New Challenges, New Responses" ## 
 
 One of the most acute challenges of working in conflict zones is differentiating between “legitimate” conflict actors and extremist groups. In countries such as Libya and Syria, state collapse has led to a proliferation of armed groups and institutions—all claiming legitimacy and exerting authority over populations. Among these are groups that most observers consider “extreme” in that they are internationally recognized as terrorist groups or they use terrorist tactics to coerce populations.
 
