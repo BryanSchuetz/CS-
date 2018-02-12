@@ -11,14 +11,12 @@ Author: Kevin Casey
 
 A review of Conflict, Violent Extremism and Development: New Challenges, New Responses
 
-
 One of the most acute challenges of working in conflict zones is differentiating between “legitimate” conflict actors and extremist groups. In countries such as Libya and Syria, state collapse has led to a proliferation of armed groups and institutions—all claiming legitimacy and exerting authority over populations. Among these are groups that most observers consider “extreme” in that they are internationally recognized as terrorist groups or they use terrorist tactics to coerce populations.
 Development practitioners are tasked to work within and around these conflict environments, often with the goal of building up the legitimacy of preferred parties while marginalizing extremist groups. The challenges here are hardly academic: witness the media uproar over British donor funds allegedly finding their way into the hands of extremists in Syria. It is essential for development professionals to understand the distinction between legitimate conflict actors and extremist groups. But how?
 
 ![ASL_et_YPG_Tall_Abyad_juin_2015.PNG](/uploads/ASL_et_YPG_Tall_Abyad_juin_2015.PNG)
-`This is the caption for this photo`
+`Members of ASL and YPG in Tall Abyad c. June 24,2015. Photo: Voices of America`
 
-Members of ASL and YPG in Tall Abyad c. June 24,2015. Photo: Voices of America
 The easy answer is that extremist groups are on the U.S. State Department’s list of Designated Terrorist Organizations. This list is well known in development circles and international programs are all too familiar with the laborious vetting required to ensure that donor funds do not intentionally or unintentionally end up benefiting extremists. However, this list hardly includes all the world’s extremist groups and while compliance with this list is necessary, it is not sufficient to ensure that our activities do not benefit extremists, particularly in complex environments where groups and alliances are constantly in flux.
 In my mind, there are two ways to approach this problem. One is a normative approach: extremist groups exhibit certain behaviors. Unfortunately, these models are often too general to apply in complex conflicts. For instance, if we apply USAID’s definition of extremism—"advocating, engaging in, preparing, or otherwise supporting ideologically motivated or justified violence to further social, economic and political objectives”—nearly all conflict actors would qualify because they are pursuing political or other agendas.
 A better approach is an empirical one, where we look closely at complex conflicts and identify behaviors that typify extremist groups and distinguish them from other conflict actors.
