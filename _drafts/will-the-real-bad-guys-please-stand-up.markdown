@@ -24,7 +24,7 @@ In my mind, there are two ways to approach this problem. One is a normative appr
 
 A better approach is an empirical one, where we look closely at complex conflicts and identify behaviors that typify extremist groups and distinguish them from other conflict actors.
 
-A new monograph, "Conflict, Violent Extremism and Development: New Challenges, New Responses," attempts to do just that. The paper seeks to answer the question of whether violent extremist groups (in this case, Salafi jihadi groups) are different from other conflict actors and if they require different responses from development practitioners.
+A new monograph, "Conflict, Violent Extremism and Development: New Challenges, New Responses," attempts to do just that. The paper (Glazzard et al., 2017) seeks to answer the question of whether violent extremist groups (in this case, Salafi jihadi groups) are different from other conflict actors and if they require different responses from development practitioners.
 
 To do this, the researchers examine three case studies to compare Salafi jihadi groups with other conflict actors in terms of their “aims, motivations, objectives, drivers of radicalization or recruitment, use of violence and tactics, and their relationship with conflict.” If Salafi jihadi groups are indeed wholly distinct from other conflict actors, this analysis should allow us to pinpoint how exactly they are different and how they should be addressed.
 
