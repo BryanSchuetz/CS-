@@ -9,7 +9,7 @@ tags:
 Author: Kevin Casey
 ---
 
-## A review of Conflict, Violent Extremism and Development: New Challenges, New Responses ## 
+## A review of Conflict, Violent Extremism and Development: New Challenges, New Responses
 
 One of the most acute challenges of working in conflict zones is differentiating between “legitimate” conflict actors and extremist groups. In countries such as Libya and Syria, state collapse has led to a proliferation of armed groups and institutions—all claiming legitimacy and exerting authority over populations. Among these are groups that most observers consider “extreme” in that they are internationally recognized as terrorist groups or they use terrorist tactics to coerce populations.
 
@@ -23,6 +23,7 @@ The easy answer is that extremist groups are on the U.S. State Department’s li
 In my mind, there are two ways to approach this problem. One is a normative approach: extremist groups exhibit certain behaviors. Unfortunately, these models are often too general to apply in complex conflicts. For instance, if we apply USAID’s definition of extremism—"advocating, engaging in, preparing, or otherwise supporting ideologically motivated or justified violence to further social, economic and political objectives”—nearly all conflict actors would qualify because they are pursuing political or other agendas.
 
 A better approach is an empirical one, where we look closely at complex conflicts and identify behaviors that typify extremist groups and distinguish them from other conflict actors.
+
 A new monograph, Conflict, Violent Extremism and Development: New Challenges, New Responses, attempts to do just that. The paper seeks to answer the question of whether violent extremist groups (in this case, Salafi jihadi groups) are different from other conflict actors and if they require different responses from development practitioners.
 
 To do this, the researchers examine three case studies to compare Salafi jihadi groups with other conflict actors in terms of their “aims, motivations, objectives, drivers of radicalization or recruitment, use of violence and tactics, and their relationship with conflict.” If Salafi jihadi groups are indeed wholly distinct from other conflict actors, this analysis should allow us to pinpoint how exactly they are different and how they should be addressed.
