@@ -7,6 +7,8 @@ tags:
 - Transition
 - Research
 Author: Kevin Casey
+social-image: "/uploads/ASL_et_YPG_Tall_Abyad_juin_2015.PNG"
+thumbnail: "/uploads/ASL_et_YPG_Tall_Abyad_juin_2015.PNG"
 ---
 
 *A review of "Conflict, Violent Extremism and Development: New Challenges, New Responses"*
