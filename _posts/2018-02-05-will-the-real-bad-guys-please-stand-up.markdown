@@ -11,7 +11,7 @@ social-image: "/uploads/ASL_et_YPG_Tall_Abyad_juin_2015.PNG"
 thumbnail: "/uploads/ASL_et_YPG_Tall_Abyad_juin_2015.PNG"
 ---
 
-*A review of "Conflict, Violent Extremism and Development: New Challenges, New Responses"*
+*A review of "[Conflict, Violent Extremism and Development: New Challenges, New Responses](http://www.springer.com/us/book/9783319514833)"*
 
 One of the most acute challenges of working in conflict zones is differentiating between “legitimate” conflict actors and extremist groups. In countries such as Libya and Syria, state collapse has led to a proliferation of armed groups and institutions—all claiming legitimacy and exerting authority over populations. Among these are groups that most observers consider “extreme” in that they are internationally recognized as terrorist groups or they use terrorist tactics to coerce populations.
 
@@ -20,7 +20,7 @@ One of the most acute challenges of working in conflict zones is differentiating
 Development practitioners are tasked to work within and around these conflict environments, often with the goal of building up the legitimacy of preferred parties while marginalizing extremist groups. The challenges here are hardly academic: witness the media uproar over British donor funds allegedly finding their way into the hands of extremists in Syria. It is essential for development professionals to understand the distinction between legitimate conflict actors and extremist groups. But how?
 
 ![ASL_et_YPG_Tall_Abyad_juin_2015.PNG](/uploads/ASL_et_YPG_Tall_Abyad_juin_2015.PNG)
-`Members of ASL and YPG in Tall Abyad c. June 24, 2015. Photo: Voice of America`
+`Members of the Free Syrian Army and the People’s Protection Units in Tall Abyad, Syria, on June 24, 2015. Photo: Voice of America`
 
 The easy answer is that extremist groups are on the U.S. State Department’s list of Designated Terrorist Organizations. This list is well known in development circles and international programs are all too familiar with the laborious vetting required to ensure that donor funds do not intentionally or unintentionally end up benefiting extremists. However, this list hardly includes all the world’s extremist groups and while compliance with this list is necessary, it is not sufficient to ensure that our activities do not benefit extremists, particularly in complex environments where groups and alliances are constantly in flux.
 
