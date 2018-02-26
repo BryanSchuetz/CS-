@@ -7,7 +7,7 @@ Author: Asha Harrison
 It is broadly understood that language—especially generalizing and dehumanizing language—can play a central role in fostering communal violence. [William Donohue has shown](https://www.researchgate.net/publication/254116598_The_Identity_Trap_The_Language_of_Genocide) how the language of classification and dehumanization was a key early warning in the Rwandan genocide, for example. Such instances should remind development actors to be mindful of the words they use, however innocuous they may seem. Case in point: a term often used in discussion of economics and conflict in the Sahel—“pastoralist.”
 
 ![Asha_Fulani_map.jpg](/uploads/Asha_Fulani_map.jpg)
-`Distribution of Fula people in the Sahel and West Africa, where the darkest color is the heaviest saturation. Photo by Sarah Welch, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=52517986`
+`Distribution of Fula people in the Sahel and West Africa, where the darkest color is the heaviest concentration of Fula. Photo by Sarah Welch, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=52517986`
 
 Spanning the African continent, the Sahel is culturally, linguistically, and ethnically diverse, home to various ethnic groups that don’t fit neatly into the national borders of the countries making up the region. One such group is the Fulani, whose 20-25 million members live in 20 sovereign states and speak numerous languages, even though they share cultural and behavioral patterns passed down through generations. 
 
