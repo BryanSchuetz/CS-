@@ -14,7 +14,7 @@ It is broadly understood that language—especially generalizing and dehumanizin
 ![Asha_Fulani_map.jpg](/uploads/Asha_Fulani_map.jpg)
 `Distribution of Fula people in the Sahel and West Africa, where the darkest color is the heaviest concentration of Fula. Photo by Sarah Welch, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=52517986`
 
-Spanning the African continent, the Sahel is culturally, linguistically, and ethnically diverse, home to various ethnic groups that don’t fit neatly into the national borders of the countries making up the region. One such group is the Fulani, whose 20-25 million members live in 20 sovereign states and speak numerous languages, even though they share cultural and behavioral patterns passed down through generations. 
+Spanning the African continent, the Sahel is culturally, linguistically, and ethnically diverse, home to various ethnic groups that don’t fit neatly into the national borders of the countries making up the region. One such group is the Fulani, whose 20 to 25 million members live in 20 sovereign states and speak numerous languages, even though they share cultural and behavioral patterns passed down through generations. 
 
 One would think that a group as expansive and diverse as the Fulani would defy caricature and stereotype. But the Fula people find themselves referred to more often than not simply as pastoralists by development professionals and international organizations. This generalization is both inaccurate—it is estimated that only one third of Fulani are herders—and potentially harmful, especially at a time when economic stressors are bringing heightened attention to the friction between herding and other economic activities.  
 
