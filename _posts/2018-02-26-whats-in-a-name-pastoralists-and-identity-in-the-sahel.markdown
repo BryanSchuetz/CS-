@@ -1,5 +1,5 @@
 ---
-title: What's in a Name? "Pastoralists" and Identity in the Sahel
+title: What’s in a Name? Pastoralists and Identity in the Sahel
 date: 2018-02-26 22:18:00 Z
 tags:
 - Research
