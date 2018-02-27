@@ -5,7 +5,7 @@ published: false
 tags:
 - Research
 - CVE
-Author: Asha Harrison
+Author: "[Asha Harrison](https://www.dai.com/who-we-are/our-team/asha-harrison)"
 ---
 
 It is broadly understood that language—especially generalizing and dehumanizing language—can play a central role in fostering communal violence. William Donohue [has shown](https://www.researchgate.net/publication/254116598_The_Identity_Trap_The_Language_of_Genocide) how the language of classification was a key early warning in the Rwandan genocide, for example. Such instances should remind the development community to be mindful of the words they use, however innocuous they may seem. Case in point: a term often used in discussion of economics and conflict in the African Sahel, “pastoralist.”
