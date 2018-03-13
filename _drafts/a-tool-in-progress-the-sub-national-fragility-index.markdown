@@ -11,6 +11,8 @@ thumbnail: "/uploads/Map_V1.JPG"
 
 Is it possible to build a fragility index that is truly useful as a tool for day-to-day development programming on the ground? That’s what we’re trying in Nigeria.
 
+<!--more-->
+
 Indices of state fragility already exist. For example, the [Fragile States Index](http://fundforpeace.org/fsi/), published by the Fund for Peace, and the [State Fragility Index](http://www.systemicpeace.org/warlist/warlist.htm), published by the Center for Systemic Peace, both draw on a mix of datasets and analysis to measure [state fragility](https://www.tandfonline.com/doi/abs/10.1080/01436597.2016.1257907?src=recsys&journalCode=ctwq20). And though their methodologies are unique, they often reach similar conclusions: in 2017, their lists of the top 10 most fragile states were nearly identical.
 
 Published yearly, these indices are thought-provoking in their own right and do serve certain purposes, however, they don’t meet the practical needs of development professionals. We program in real-time and need data that gives us equally timely indications of shifts in fragility in the countries where we work. Additionally, it’s questionable how useful existing indices are in predicting instability, given that what they essentially do is evaluate past events. There was much handwringing, for example, when none of the available indices foresaw the [Arab Spring](http://foreignpolicy.com/2011/06/20/dark-crystal/). Finally, they are not granular enough. National data often mask local realities, and it is invariably these local realities that development professionals must address in their programming.
