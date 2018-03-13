@@ -30,7 +30,7 @@ The solution CS3 piloted—in collaboration with mobile surveyor [GeoPoll](https
 
 Are there shifts in public perceptions before, during, and after increases in violence and instability at the sub-national level that could indicate shifts in fragility? We developed 26 questions concentrating on people’s perceptions of complex issues including education, rule of law, optimism, stability, security, peace, land use, and economic outlook. The survey was administered in the three states over 12 weeks.
 
-<script id="infogram_0__/y1v14SkXcG6S78A9PJDF" title="Nigeria ACLED" src="https://e.infogram.com/js/dist/embed.js?I7M" type="text/javascript"></script>`Data courtesy of The Armed Conflict Location & Event Data Project (ACLED). Size of bubbles indicates the number of incidents over the survey period. Color is used to differentiate between closely grouped areas.`
+<script id="infogram_0__/y1v14SkXcG6S78A9PJDF" title="Nigeria ACLED" src="https://e.infogram.com/js/dist/embed.js?I7M" type="text/javascript"></script>
 
 ## The Lessons Learning
 
