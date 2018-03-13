@@ -22,8 +22,11 @@ Our programming must deliver locally calibrated solutions to economic, social, a
 If the sub-national index is to inform effective programming in fragile states, it must have four key features:
 
 * It has to be **flexible and customizable**, allowing it to be tailored to local contexts;
+
 * It has to be **timely**, with a short suspense between data collection and results;
+
 * Its readouts must be **more frequent** than yearly; and
+
 * It should be an **early warning** indicator of potential threats to stability.
 
 The solution CS3 piloted—in collaboration with mobile surveyor [GeoPoll](https://research.geopoll.com/)—is a text message-based survey administered on a rolling basis in the northeastern states of Nigeria: Adamawa, Borno, and Yobe. The idea is to test a set of questions that measure fragility by means of citizen perceptions at the provincial level. Such perceptions are then compared against objective measures of stability‚ in this case events recorded in the [Armed Conflict Location & Event Database (ACLED)](https://www.acleddata.com/).
@@ -31,7 +34,6 @@ The solution CS3 piloted—in collaboration with mobile surveyor [GeoPoll](https
 Are there shifts in public perceptions before, during, and after increases in violence and instability at the sub-national level that could indicate shifts in fragility? We developed 26 questions concentrating on people’s perceptions of complex issues including education, rule of law, optimism, stability, security, peace, land use, and economic outlook. The survey was administered in the three states over 12 weeks.
 
 <script id="infogram_0__/y1v14SkXcG6S78A9PJDF" title="Nigeria ACLED" src="https://e.infogram.com/js/dist/embed.js?I7M" type="text/javascript"></script>
-
 ## The Lessons Learning
 
 There were plenty of ACLED events to juxtapose against the data collected in the pilot survey—events both horrific, such as a bombing [in Borno](https://www.reuters.com/article/us-nigeria-security/suicide-bombers-in-northeast-nigerias-maiduguri-kill-17-police-idUSKBN19X1AW), and uplifting, such as the release of the [Chibok schoolgirls](https://www.washingtonpost.com/world/82-chibok-girls-freed-in-nigeria-after-years-in-boko-haram-custody/2017/05/06/34865c84-a398-4af9-90e5-1baafea4f23d_story.html). However, the citizen perceptions measured in the survey remained relatively constant. Responses to questions on political violence, optimism, feelings toward police, and even perceptions of peace were consistently positive and are stable across time and demographics. Even in Borno, which experiences the highest number of terror incidents according to ALCED datasets, the responses to our questions on issues related to fragility remained consistent, positive, and strikingly similar to responses from the other two states.
@@ -41,7 +43,9 @@ There were plenty of ACLED events to juxtapose against the data collected in the
 In addition to our preliminary findings we learned several lessons through this initial survey that will help us refine the tool:
 
 * First, public opinions regarding stability and security are quite steady week to week, even in the face of dramatic violence. While it was tempting to think we could pinpoint shifts on a more granular basis, it makes more sense to move to a monthly schedule.
+
 * Second, while responses were consistent, there were indications of variation within sub-populations. However, these differences weren’t statistically significant, which could be due to the small sample size for sub-populations. Fielding the index monthly would allow us to increase the sample size without incurring additional costs. This move will help us determine if shifts in the perceptions of particularly vulnerable populations—such as women and youth—may be better indicators of instability.
+
 * Third, based on this pilot we can modify our questions to identify other indicators that may be more sensitive and responsive to shifts in perceptions of violence and fragility. Leaning on our technical expertise and our experience in other geographies, we hope to refine the questions in a way that systematically localizes and enhances the tool.
 
 We’ll be making these adjustments in the months ahead and will report back on our progress.
