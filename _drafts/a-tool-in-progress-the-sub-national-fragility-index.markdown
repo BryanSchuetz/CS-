@@ -34,7 +34,7 @@ Are there shifts in public perceptions before, during, and after increases in vi
 <div class="infogram-embed" data-id="_/y1v14SkXcG6S78A9PJDF" data-type="interactive" data-title="Nigeria ACLED"></div><script>!function(e,t,n,s){var i="InfogramEmbeds",o=e.getElementsByTagName(t)\[0\],d=/^http:/.test(e.location)?"http:":"https:";if(/^/{2}/.test(s)&&(s=d\+s),window\[i\]&&window\[i\].initialized)window\[i\].process&&window\[i\].process();else if(!e.getElementById(n)){var a=e.createElement(t);a.async=1,a.id=n,a.src=s,o.parentNode.insertBefore(a,o)}}(document,"script","infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script>
 `Data courtesy of The Armed Conflict Location & Event Data Project (ACLED). Size of bubbles indicates the number of incidents over the survey period. Color is used to differentiate between closely grouped areas.`
 
-**The Lessons Learning**
+**Lessons Learning**
 
 There were plenty of ACLED events to juxtapose against the data collected in the pilot survey—events both horrific, such as a bombing in Borno, and uplifting, such as the release of the Chibok schoolgirls. However, the citizen perceptions measured in the survey remained relatively constant. Responses to questions on political violence, optimism, feelings toward police, and even perceptions of peace were consistently positive and are stable across time and demographics. Even in Borno, which experiences the highest number of terror incidents according to ALCED datasets, the responses to our questions on issues related to fragility remained consistent, positive, and strikingly similar to responses from the other two states.
 
