@@ -23,7 +23,7 @@ If the sub-national index is to inform effective programming in fragile states, 
 
 * It has to be **flexible and customizable**, allowing it to be tailored to local contexts;
 * It has to be **timely**, with a short suspense between data collection and results;
-* Its readouts must be more \* frequent than yearly; and
+* Its readouts must be **more frequent** than yearly; and
 * It should be an **early warning** indicator of potential threats to stability.
 
 The solution CS3 piloted—in collaboration with mobile surveyor [GeoPoll](https://research.geopoll.com/)—is a text message-based survey administered on a rolling basis in the northeastern states of Nigeria: Adamawa, Borno, and Yobe. The idea is to test a set of questions that measure fragility by means of citizen perceptions at the provincial level. Such perceptions are then compared against objective measures of stability‚ in this case events recorded in the [Armed Conflict Location & Event Database (ACLED)](https://www.acleddata.com/).
