@@ -38,7 +38,7 @@ Are there shifts in public perceptions before, during, and after increases in vi
 
 There were plenty of ACLED events to juxtapose against the data collected in the pilot survey—events both horrific, such as a bombing [in Borno](https://www.reuters.com/article/us-nigeria-security/suicide-bombers-in-northeast-nigerias-maiduguri-kill-17-police-idUSKBN19X1AW), and uplifting, such as the release of the [Chibok schoolgirls](https://www.washingtonpost.com/world/82-chibok-girls-freed-in-nigeria-after-years-in-boko-haram-custody/2017/05/06/34865c84-a398-4af9-90e5-1baafea4f23d_story.html). However, the citizen perceptions measured in the survey remained relatively constant. Responses to questions on political violence, optimism, feelings toward police, and even perceptions of peace were consistently positive and are stable across time and demographics. Even in Borno, which experiences the highest number of terror incidents according to ALCED datasets, the responses to our questions on issues related to fragility remained consistent, positive, and strikingly similar to responses from the other two states.
 
-[Figure 2.PNG](/uploads/Figure%202.PNG)
+![Graphs_v3.jpg](/uploads/Graphs_v3.jpg)
 
 In addition to our preliminary findings we learned several lessons through this initial survey that will help us refine the tool:
 
