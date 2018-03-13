@@ -1,6 +1,9 @@
 ---
 title: 'A Tool in Progress: The Sub-National Fragility Index'
 date: 2018-03-13 18:18:00 Z
+tags:
+- Research
+- Governance
 Author: Aaron Hoagland
 ---
 
