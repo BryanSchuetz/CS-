@@ -35,7 +35,7 @@ Are there shifts in public perceptions before, during, and after increases in vi
 
 There were plenty of ACLED events to juxtapose against the data collected in the pilot survey—events both horrific, such as a bombing in Borno, and uplifting, such as the release of the Chibok schoolgirls. However, the citizen perceptions measured in the survey remained relatively constant. Responses to questions on political violence, optimism, feelings toward police, and even perceptions of peace were consistently positive and are stable across time and demographics. Even in Borno, which experiences the highest number of terror incidents according to ALCED datasets, the responses to our questions on issues related to fragility remained consistent, positive, and strikingly similar to responses from the other two states.
 
-[Figure 2.PNG](/uploads/Figure%202.PNG)
+![Figure 2.PNG](/uploads/Figure%202.PNG)
 
 In addition to our preliminary findings we learned several lessons through this initial survey that will help us refine the tool:
 
