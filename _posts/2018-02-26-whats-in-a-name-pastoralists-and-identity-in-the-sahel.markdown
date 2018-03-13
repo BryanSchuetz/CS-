@@ -1,24 +1,22 @@
 ---
 title: 'Words Matter: Pastoralists and Identity in the Sahel'
 date: 2018-02-26 22:18:00 Z
-published: false
 tags:
 - Research
 - CVE
 Author: "[Asha Harrison](https://www.dai.com/who-we-are/our-team/asha-harrison)"
+social-image: "/uploads/Asha_Fulani_girl3.png"
+thumbnail: "/uploads/Asha_Fulani_girl3.png"
 ---
 
-It is broadly understood that language—especially generalizing and dehumanizing language—can play a central role in fostering communal violence. William Donohue [has shown](https://www.researchgate.net/publication/254116598_The_Identity_Trap_The_Language_of_Genocide) how the language of classification was a key early warning in the Rwandan genocide, for example. Such instances should remind the development community to be mindful of the words they use, however innocuous they may seem. Case in point: a term often used in discussion of economics and conflict in the African Sahel, “pastoralist.”
+![Asha_Fulani_girl3.png](/uploads/Asha_Fulani_girl3.png "Fulani girl in Mali. (Photo by Ferdinand Reus via Wikimedia Commons)."){:.float-left}It is broadly understood that language—especially generalizing and dehumanizing language—can play a central role in fostering communal violence. William Donohue [has shown](https://www.researchgate.net/publication/254116598_The_Identity_Trap_The_Language_of_Genocide) how the language of classification was a key early warning in the Rwandan genocide, for example. Such instances should remind the development community to be mindful of the words they use, however innocuous they may seem. Case in point: a term often used in discussion of economics and conflict in the African Sahel, “pastoralist.”
 
 <!--more-->
 
-![Asha_Fulani_map.jpg](/uploads/Asha_Fulani_map.jpg)
-`Distribution of Fulani people in the Sahel and West Africa, where the darkest color is the heaviest concentration of Fulani. (Map by Sarah Welch via Wikimedia Commons).`
-
 Spanning the African continent, the Sahel is culturally, linguistically, and ethnically diverse, home to various ethnic groups that don’t fit neatly into the national borders of the countries making up the region. One such group is the Fulani, whose 20 to 25 million members live in 20 sovereign states and speak numerous languages, even though they share cultural and behavioral patterns passed down through generations.
 
-![Asha_Fulani_girl2-c39881.jpg](/uploads/Asha_Fulani_girl2-c39881.jpg)
-
+![Asha_Fulani_map.jpg](/uploads/Asha_Fulani_map.jpg)
+`Distribution of Fulani people in the Sahel and West Africa, where the darkest color is the heaviest concentration of Fulani. (Map by Sarah Welch via Wikimedia Commons).`
 
 One would think that a group as expansive and diverse as the Fulani would defy caricature and stereotype. But the Fulani find themselves referred to more often than not simply as pastoralists by development professionals and international organizations. This generalization is both inaccurate—it is estimated that only one-third of Fulani are herders—and potentially harmful, especially at a time when economic stressors are bringing heightened attention to the friction between herding and other economic activities.
 
