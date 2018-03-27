@@ -1,6 +1,7 @@
 ---
 title: Sara Hiller
 date: 2018-03-27 14:57:00 Z
+Image: "/uploads/Hiller_Profile.png"
 ---
 
 Sara Hiller is a Project Manager for DAI’s Center for Secure and Stable States, where she provides technical and operational oversight to transition and stabilization programs. Since joining DAI in 2012, Sara has supported a variety of governance, countering violent extremism, and stabilization programs in complex environments such as Pakistan, Iraq, and the West Bank.
