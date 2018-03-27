@@ -7,7 +7,7 @@ tags:
 - Research
 ---
 
-Measures taken to counter violent extremism (CVE) have a limited evidence base and complex intervention models, we need to pay attention to any variable that appears to be important across programming. One of those key common factors is the importance of a good facilitator. It turns out that the field of public health has something to teach us on this topic.
+As measures to counter violent extremism (CVE) are complex and unproven, we, as development practitioners, must pay attention to any variable that appears to be important across programming. One of those key common factors is the importance of a good facilitator. It turns out that the field of public health has something to teach us on this topic.
 
 <!--more-->
 
