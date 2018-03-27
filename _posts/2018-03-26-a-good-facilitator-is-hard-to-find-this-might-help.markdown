@@ -2,6 +2,9 @@
 title: 'A Good Facilitator is Hard to Find: This Might Help'
 date: 2018-03-26 19:55:00 Z
 published: false
+tags:
+- CVE
+- Research
 ---
 
 In a field like countering violent extremism (CVE), with a limited evidence base and complex intervention models, we need to pay attention to any variable that appears to be important across programming. One of those key common factors is the importance of a good facilitator. It turns out that the field of public health has something to teach us on this topic.
