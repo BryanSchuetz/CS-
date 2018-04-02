@@ -6,6 +6,7 @@ tags:
 - CVE
 - Research
 Author: Sara Hiller
+social-image: "/uploads/SUPKEM2.png"
 ---
 
 As measures to counter violent extremism (CVE) are complex and unproven, development practitioners must pay attention to any and all variables that even *appear* to be important. One of those key common factors is the importance of a good facilitator. Luckily, the field of public health has much to teach us on this topic.
@@ -19,6 +20,7 @@ In response to this long-standing challenge in their own field, public health pr
 As in public health interventions, adherence, competence, and credibility are key to effective facilitation of CVE programs, whether it is a coach teaching kids to play a sport, a religious leader facilitating community dialogue, or a teacher delivering a lesson on violent extremism. Is the coach effective at creating a safe space for young people to learn from one another? Is the religious leader able to relate to youth, and perceived to have moral authority on the issues that matter to them? Can the teacher create an atmosphere conducive to relationship building and personal growth? The answers to these questions are good indicators as to whether a CVE intervention will achieve its objectives.
 
 ![SUPKEM_1.png](/uploads/SUPKEM_1.png)
+`A youth mentor in Kenya leads a discussion on countering violent extremism. Photo credit: DAI.`
 
 So what can we do to ensure our facilitators are credible, adherent, and competent?
 
