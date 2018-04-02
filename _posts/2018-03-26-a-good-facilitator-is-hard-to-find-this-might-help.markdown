@@ -5,6 +5,7 @@ published: false
 tags:
 - CVE
 - Research
+Author: Sara Hiller
 ---
 
 As measures to counter violent extremism (CVE) are complex and unproven, development practitioners must pay attention to any and all variables that even *appear* to be important. One of those key common factors is the importance of a good facilitator. Luckily, the field of public health has much to teach us on this topic.
