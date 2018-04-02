@@ -1,7 +1,6 @@
 ---
 title: 'A Good Facilitator is Hard to Find: This Might Help'
 date: 2018-03-26 19:55:00 Z
-published: false
 tags:
 - CVE
 - Research
