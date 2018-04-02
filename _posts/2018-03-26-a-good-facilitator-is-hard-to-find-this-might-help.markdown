@@ -5,7 +5,7 @@ published: false
 tags:
 - CVE
 - Research
-Author: Sara Hiller
+Author: "[Sara Hiller](http://dai-global-checkpoint.com/authors/sara-hiller/)"
 social-image: "/uploads/SUPKEM2.png"
 ---
 
