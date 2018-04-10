@@ -1,5 +1,5 @@
 ---
-title: Trauma Awareness and Healing
+title: 'Trauma Awareness and Healing: A Step on the Path to Peace'
 date: 2018-04-10 20:35:00 Z
 tags:
 - Radicalization
@@ -8,7 +8,7 @@ Author: Jessi Wolz
 social-image: "/uploads/Cycle2.jpg"
 ---
 
-# A Step on the Path to Peace
+By: [Jessi Wolz](https://www.linkedin.com/in/jessi-wolz-2a124423/)
 
 I recently traveled to South Sudan to investigate efforts to address trauma in a region that has experienced nearly 27 years of war since the 1980s. As a development professional and trauma educator, I don’t need to be convinced of the need to address trauma as part of a portfolio of peacebuilding activities. Encouragingly, an increasing number of [international donors](https://www.giz.de/en/worldwide/31629.html) and [organizations ](https://www.green-string.org/)are beginning to examine—and program around—the link between trauma and violence.
 
