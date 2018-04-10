@@ -4,7 +4,6 @@ date: 2018-04-10 20:35:00 Z
 tags:
 - Radicalization
 - Research
-Author: Jessi Wolz
 social-image: "/uploads/Cycle2.jpg"
 ---
 
