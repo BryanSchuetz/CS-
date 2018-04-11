@@ -15,7 +15,7 @@ Over the past two years, for example, USAID South Sudan has funded Morning Star,
 The STAR model, “Breaking Cycles of Violence, Building Resilience,” pictured below, links unhealed trauma with conflict and cycles of violence, drawing on a body of evidence from disciplines including neurobiology, psychology, restorative justice, and conflict transformation.
 
 ![Cycle1.jpg](/uploads/Cycle1.jpg)
-`Source: Eastern Mennonite University: https://emu.edu/now/peacebuilder/files/2013/05/star-model.png`
+`Source: Eastern Mennonite University`
 
 Experiencing traumatic events can cause people to get stuck in cycles of violence, depicted in the model as two closed-loop circles: “acting in” (manifesting in behaviors such as substance abuse, suicidal tendencies, rage, and fantasies of revenge and humiliation) and “acting out” (manifested as domestic abuse, for example, susceptibility to good vs. evil narratives, criminal activity, and violence in the name of honor, justice, or self-defense).
 
