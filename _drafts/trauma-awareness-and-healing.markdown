@@ -4,6 +4,7 @@ date: 2018-04-10 20:35:00 Z
 tags:
 - Radicalization
 - Research
+- CVE
 Author: "[Jessi Wolz](https://www.linkedin.com/in/jessi-wolz-2a124423/)"
 social-image: "/uploads/Cycle2.jpg"
 ---
