@@ -7,6 +7,7 @@ tags:
 - CVE
 Author: "[Jessi Wolz](https://www.linkedin.com/in/jessi-wolz-2a124423/)"
 social-image: "/uploads/Cycle2.jpg"
+thumbnail: "/uploads/Cycle2.jpg"
 ---
 
 I recently traveled to South Sudan to investigate efforts to address trauma in a region that has experienced nearly 27 years of war since the 1980s. As a global development professional and trauma educator, I don’t need to be convinced of the need to address trauma as part of a portfolio of peacebuilding activities. Encouragingly, an increasing number of [international donors](https://www.giz.de/en/worldwide/31629.html) and [organizations ](https://www.green-string.org/)are beginning to examine—and program around—the link between trauma and violence.
@@ -40,7 +41,5 @@ My research in Juba suggests a high demand for such trauma awareness training. A
 How can we develop a coherent, evidence-based, and thoroughly evaluated strategy for fully integrating trauma healing into development programming in post-conflict contexts? Building on the foundation established by pioneers such as Morning Star, I offer three areas on which to focus:
 
 * **Develop a robust monitoring and evaluation strategy**: At present, the Morning Star program measures pre- and post-training knowledge of trauma and collects anecdotal evidence of impact. Ultimately, however, we need to demonstrate that trauma awareness and healing services have a positive impact on attitudes and behaviors, empowering beneficiaries to choose peaceful responses to violent provocations or local conflict, as well as actively support peace during national and local peace processes.
-
 * **Define “do no harm” principles in trauma programming**: Addressing trauma, even if it’s just education, is psychosocial work—we’re addressing a phenomenon rooted in the deeper layers of the mind and body. How deeply can we go in communities where there is no mental health infrastructure? Can we responsibly train community health workers in this sensitive work? For people who have learned to dissociate to survive, do we do more harm than good by resurfacing trauma in a context where clinical psychiatric resources are minimal? These are questions we should examine closely.
-
 * **Think strategically and unconventionally about who to target for trauma activities**: Given short program life cycles and limited funding, we must be strategic about who we reach with training and services. How do we decide who to train to have the most impact on cycles of violence? We might want to target community-level and national influencers—in a place such as South Sudan that might be clergy, traditional leaders, or government officials—but we’ll also need to reach current and potential perpetrators of violence, such as military or militia leaders, acknowledging that they are also likely victims of violence acting out their trauma. We might also want to target youth, as their resiliency is so critical to the future stability of a nation. The strategy will differ for each program and context, but if we want to break cycles of violence we’ll need to think and program beyond our comfort zone.
