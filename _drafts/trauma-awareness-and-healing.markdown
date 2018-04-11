@@ -26,14 +26,11 @@ These cycles of violence beget violence, and, in turn, more trauma. Only once in
 In South Sudan, Morning Star delivers three- to five-day trainings based on this framework, offering young people, community leaders, clergy, civil society organizations, and health workers:
 
 * An understanding of how trauma affects the brain and body;
-
 * Capacity to identify cycles of violence in themselves, their families, and communities;
-
 * Practical tools to address unhealed trauma in their sphere of influence; and
-
 * A path to begin the journey to healing, reconciliation, and peace.
 
-Morning Star believes that people equipped with such knowledge and tools will be better able to draw on inner, familial, and cultural resources to begin to heal themselves and others, and prevent or end cycles of violence (this kind of intervention would not apply to acute or clinically diagnosed cases of trauma).
+The Morning Star team believes that people equipped with such knowledge and tools will be better able to draw on inner, familial, and cultural resources to begin to heal themselves and others, and prevent or end cycles of violence (this kind of intervention would not apply to acute or clinically diagnosed cases of trauma).
 
 Other development actors in South Sudan are realizing the potential of trauma healing. [The Foundation for Democracy and Accountable Governance](http://www.fodagsouthsudan.org/) (FODAG), a South Sudanese organization, recently started providing trauma awareness training in addition to its suite of democracy building activities. FODAG Executive Director Jame David Kolok explained to me that the foundation had begun collecting testimonies to support the case for future judicial processes but realized that in order to ask people to share their stories, the foundation would need to address trauma. FODAG’s realization is backed by science: unhealed trauma can create real mental barriers that inhibit victims of violence from telling their stories. If victims can’t recount their stories, then truth telling, transitional justice, and reconciliation are out of reach.
 
