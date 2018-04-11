@@ -8,7 +8,7 @@ Author: "[Jessi Wolz](https://www.linkedin.com/in/jessi-wolz-2a124423/)"
 social-image: "/uploads/Cycle2.jpg"
 ---
 
-I recently traveled to South Sudan to investigate efforts to address trauma in a region that has experienced nearly 27 years of war since the 1980s. As a development professional and trauma educator, I don’t need to be convinced of the need to address trauma as part of a portfolio of peacebuilding activities. Encouragingly, an increasing number of [international donors](https://www.giz.de/en/worldwide/31629.html) and [organizations ](https://www.green-string.org/)are beginning to examine—and program around—the link between trauma and violence.
+I recently traveled to South Sudan to investigate efforts to address trauma in a region that has experienced nearly 27 years of war since the 1980s. As a global development professional and trauma educator, I don’t need to be convinced of the need to address trauma as part of a portfolio of peacebuilding activities. Encouragingly, an increasing number of [international donors](https://www.giz.de/en/worldwide/31629.html) and [organizations ](https://www.green-string.org/)are beginning to examine—and program around—the link between trauma and violence.
 
 Over the past two years, for example, USAID South Sudan has funded Morning Star, a local trauma awareness and resilience program based on Eastern Mennonite University’s [STAR curriculum](https://emu.edu/cjp/star/) and training. Morning Star, like its parent program STAR (Strategies for Trauma Awareness & Resilience), is based on a framework first developed by the [Center for Strategic and International Studies](https://www.csis.org/) and later tested and adapted by peacebuilding practitioners, among them Olga Botcharova and Barry Hart.
 
