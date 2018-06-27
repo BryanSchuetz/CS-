@@ -1,7 +1,6 @@
 ---
 title: Lauren Reese
 date: 2018-06-27 16:17:00 Z
-published: false
 Job: Associate II
 Image: "/uploads/Lauren%20Reese-pic-bbec70.jpg"
 ---
