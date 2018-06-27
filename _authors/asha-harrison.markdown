@@ -1,7 +1,6 @@
 ---
 title: Asha Harrison
 date: 2018-06-27 16:32:00 Z
-published: false
 Job: Project Manager
 Image: "/uploads/Asha%20Harrison.jpg"
 ---
