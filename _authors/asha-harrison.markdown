@@ -10,5 +10,5 @@ Asha has designed and implemented development projects worldwide since 2004, spe
 
 <!--more-->
 
-*B.A., social anthropology with development studies, University of Sussex
-*M.A., anthropology of conflict, violence and conciliation, University of Sussex
+* B.A., social anthropology with development studies, University of Sussex
+* M.A., anthropology of conflict, violence and conciliation, University of Sussex
