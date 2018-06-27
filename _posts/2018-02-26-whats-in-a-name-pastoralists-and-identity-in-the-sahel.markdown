@@ -4,7 +4,7 @@ date: 2018-02-26 22:18:00 Z
 tags:
 - Research
 - CVE
-Author: "[Asha Harrison](https://www.dai.com/who-we-are/our-team/asha-harrison)"
+Author: Asha Harrison
 social-image: "/uploads/Asha_Fulani_girl3.png"
 thumbnail: "/uploads/Asha_Fulani_girl3.png"
 ---
