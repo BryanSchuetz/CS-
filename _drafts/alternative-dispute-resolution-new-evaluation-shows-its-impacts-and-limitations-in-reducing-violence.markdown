@@ -2,6 +2,10 @@
 title: 'Alternative Dispute Resolution: New Evaluation Shows Its Impacts and Limitations
   in Reducing Violence'
 date: 2018-07-03 14:59:00 Z
+tags:
+- Governance
+- Research
+- Dispute Resolution
 Author: Lauren Reese
 ---
 
