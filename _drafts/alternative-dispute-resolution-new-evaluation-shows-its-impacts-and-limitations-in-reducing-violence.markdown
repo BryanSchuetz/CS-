@@ -7,6 +7,8 @@ tags:
 - Research
 - Dispute Resolution
 Author: Lauren Reese
+social-image: "/uploads/Womens%20FDG%20in%20Gbarnga.jpg"
+thumbnail: "/uploads/Womens%20FDG%20in%20Gbarnga.jpg"
 ---
 
 In conflict-affected countries, formal legal systems often are limited, with department or agency staffs absent or overloaded or both, leaving communities with few or no dispute resolution mechanisms. In their place, communities tend to rely on informal processes or institutions to resolve disputes before they escalate to violence. Development practitioners operating in these unstable environments often employ strategies to support informal dispute resolution, reduce violence, and mitigate conflict. But do they work? A wide-ranging alternative dispute resolution (ADR) campaign in Liberia and an associated random control trial evaluation show that they can, while also pointing to the unintended consequences of development interventions that aim to engineer changes in informal institutions.
