@@ -30,6 +30,6 @@ In investigating this adverse effect, the researchers found that respondents wit
 
 The application of a random control trial evaluation model to violence reduction programming provides valuable evidence for practitioners and contributes to a growing knowledge base of high-quality evaluation findings to guide post-conflict programming. We take several lessons from this evaluation:
 
-•	First, it confirms that intensive training at sufficient scale can have lasting impacts on violence in post-conflict communities. 
-•	Second, while ADR training is not a silver bullet for all conflicts, it can reduce violence in certain contexts. The researchers note, however, that the intervention was quite costly given that it generated only a moderate reduction of violence. Practitioners should consider using information technology or other strategies to provide ADR training at scale to reduce costs. 
-•	Third, we must be aware of how our interventions may reinforce existing power imbalances. In such cases, practitioners could adopt a layered programming approach that also addresses unequal access to political and economic power in the communities in question. 
+* First, it confirms that intensive training at sufficient scale can have lasting impacts on violence in post-conflict communities. 
+* Second, while ADR training is not a silver bullet for all conflicts, it can reduce violence in certain contexts. The researchers note, however, that the intervention was quite costly given that it generated only a moderate reduction of violence. Practitioners should consider using information technology or other strategies to provide ADR training at scale to reduce costs. 
+* Third, we must be aware of how our interventions may reinforce existing power imbalances. In such cases, practitioners could adopt a layered programming approach that also addresses unequal access to political and economic power in the communities in question. 
