@@ -5,7 +5,9 @@ date: 2018-07-03 14:59:00 Z
 Author: Lauren Reese
 ---
 
-In conflict-affected countries, formal legal systems often are limited, with department or agency staffs absent or overloaded or both, leaving communities with few or no dispute resolution mechanisms. In their place, communities tend to rely on informal processes or institutions to resolve disputes before they escalate to violence. Development practitioners operating in these unstable environments often employ strategies to support informal dispute resolution, reduce violence, and mitigate conflict. But do they work? A wide-ranging alternative dispute resolution (ADR) campaign in Liberia and an associated random control trial evaluation show that they can, while also pointing to the unintended consequences of development interventions that aim to engineer changes in informal institutions. 
+In conflict-affected countries, formal legal systems often are limited, with department or agency staffs absent or overloaded or both, leaving communities with few or no dispute resolution mechanisms. In their place, communities tend to rely on informal processes or institutions to resolve disputes before they escalate to violence. Development practitioners operating in these unstable environments often employ strategies to support informal dispute resolution, reduce violence, and mitigate conflict. But do they work? A wide-ranging alternative dispute resolution (ADR) campaign in Liberia and an associated random control trial evaluation show that they can, while also pointing to the unintended consequences of development interventions that aim to engineer changes in informal institutions.
+
+<!--more-->
 
 From 2009 to 2010, six years after the peace agreement that ended two civil wars in Liberia, the United Nations High Commission for Refugees (UNHCR) and a local nongovernmental organization, the Justice and Peace Commission (JPC), carried out a training program to promote ADR in rural Liberian communities. ADR is set of mediation and negotiation practices designed to help persons or communities peacefully resolve conflict, foster communication, and build trust in negotiated solutions. 
 
