@@ -6,6 +6,8 @@ Author: Adeel Jafferi
 
 Counter-threat finance—efforts to reduce the flow of money that funds terrorism and organized crime—has been a key component of the international community’s struggle against terrorism since the attacks of September 11, 2001. When we think of counter-threat finance, we tend to think of international banking, sanctions, money laundering, oil smuggling, and so forth. We don’t often think of international development. But we should.
  
+<!--more-->
+
 While early efforts in counter-threat finance succeeded in limiting terrorist groups’ access to international financial networks, these groups have fallen back on tried-and-true methods at the margins of society: mining and smuggling natural resources, informal currency exchange, extortion, criminal enterprise, and so on. By gaining control of territory and carefully designing its financial systems, the Islamic State, for example, has gained unprecedented access to financial resources. 
 
 These areas on the margins are also spaces where development practitioners work, and if we hope to choke violent extremist groups’ access to funds, we would do well to recognize that our development interventions can play a role. In this and a following post, I discuss how development practitioners can help vulnerable people avoid inadvertently funding the very groups destabilizing their communities, focusing here on the abuse of charitable donations.
