@@ -30,11 +30,11 @@ This is where development practitioners come in. We can reduce the threat of fin
  
 My own experience conducting safe charitable giving initiatives in Pakistan over several years tells me that most individuals—even those potentially sympathetic to extremist narratives—express shock and remorse when they learn their hard-earned money could be used to kill innocent people. The safe giving principles which I have seen work in the field are simple and borne out of knowledge of the communities in which we work:
  
-*First, it is key to engage with credible local actors who can speak authoritatively about the Islamic values of charity. 
+* First, it is key to engage with credible local actors who can speak authoritatively about the Islamic values of charity. 
 
-*Second, it’s often counter-productive to be proscriptive about which charities people should donate to, especially when those organizations are closely aligned with religious groups. Instead, successful activities discourage blind giving and educate beneficiaries about where their donations might go should they not exercise vigilance.
+* Second, it’s often counter-productive to be proscriptive about which charities people should donate to, especially when those organizations are closely aligned with religious groups. Instead, successful activities discourage blind giving and educate beneficiaries about where their donations might go should they not exercise vigilance.
  
-*Third, successful activities provide nuanced discussions about the nature of giving in Islam, including the importance of giving to those within the community and to less well-off family members—a “charity begins at home” endorsed by Islamic jurists. With religion such a visceral issue in many of the places we work, successful activities walk the fine line between being informative yet non-confrontational.
+* Third, successful activities provide nuanced discussions about the nature of giving in Islam, including the importance of giving to those within the community and to less well-off family members—a “charity begins at home” endorsed by Islamic jurists. With religion such a visceral issue in many of the places we work, successful activities walk the fine line between being informative yet non-confrontational.
  
 ## Is It Working? 
 
