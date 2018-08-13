@@ -1,12 +1,16 @@
 ---
 title: 'Q&A: Complexity-Aware Planning for Stabilization Programming'
 date: 2018-08-13 11:42:00 Z
-published: false
+tags:
+- CVE
+- Programing
+- Research
 Author: Christy Martins
 social-image: "/uploads/IMG_Christy%20Martins.jpg"
+Small Image: "/uploads/800px-Street_scene_in_Marsabit,_North_Kenya-c71172.jpg"
 ---
 
-In complex and unstable environments, standard performance monitoring is often insufficient to ensure activities remain relevant and adapt to the evolving ecosystem in which they are implemented. DAI’s complexity-aware planning (CAP) cycle is designed for situations where the understanding of a country’s conflict is narrow, conditions are constantly in flux, and buy-in from stakeholders may be limited. CAP embeds performance monitoring in the continual assessment of social, political, and security dynamics, and provides a system for integrating research and situational awareness with activity design, monitoring and evaluation, and strategy. It monitors unanticipated outcomes, considering multiple pathways of change and causal logic by examining actors, influencers, and relationships; system factors, dynamics, and qualities; and conflict triggers and events.
+![800px-Street_scene_in_Marsabit,_North_Kenya](/uploads/800px-Street_scene_in_Marsabit,_North_Kenya-c71172.jpg "Street in Marsabit, North Kenya. (Photo by Jens Klinzing via Wikimedia Commons)."){:.float-left}In complex and unstable environments, standard performance monitoring is often insufficient to ensure activities remain relevant and adapt to the evolving ecosystem in which they are implemented. DAI’s complexity-aware planning (CAP) cycle is designed for situations where the understanding of a country’s conflict is narrow, conditions are constantly in flux, and buy-in from stakeholders may be limited. CAP embeds performance monitoring in the continual assessment of social, political, and security dynamics, and provides a system for integrating research and situational awareness with activity design, monitoring and evaluation, and strategy. It monitors unanticipated outcomes, considering multiple pathways of change and causal logic by examining actors, influencers, and relationships; system factors, dynamics, and qualities; and conflict triggers and events.
 
 <!--more-->
 
@@ -16,7 +20,9 @@ In this post, we explore the nuances of CAP with [John Sampson](https://www.dai.
 
 Sampson: Simply put, a well-designed and well-run CAP cycle results in better programming. CAP goes beyond regular strategic reviews and forces teams into uncomfortable positions where data and research challenge assumptions—daily. This continuous feedback opens new thinking for policy and programming and ensures we are developing our activities on the basis of evidence. 
 Stabilization is all about working in a constantly evolving system. Violent extremist organizations, for example, are constantly adjusting their tactics. A CAP cycle with regular rounds of research and learning points helps us assess the relevance and effectiveness of our activities and apply what we learn to our overall strategy.
- 
+
+![IMG_Christy Martins](/uploads/IMG_Christy%20Martins.jpg)`CVE expert Othman Mujahid tests participants’ knowledge of VE and CVE dynamics at a training event in Kibra, Nairobi. Photo by Hank Nelson`
+
 ## Checkpoint: What are the benefits of CAP?
 
 Sampson: When we are systematically analyzing the effects of our interventions, throughout the activity cycle, we can better manage risk and better apply the “do no harm” principle—which is particularly important given the sensitivities of this type of programming. Another benefit is improved responsiveness to changes in context, provided you have adaptive programming options to respond quickly. In NIWETU’s case, our rapid response roster complements our small grants function. A small grant may take days or weeks to design and deploy, whereas our rapid response experts can mobilize within 48 hours, as with the Marsabit example describe above. Without the rapid response function, that situation may have escalated and the window of opportunity for response may have closed.
@@ -24,8 +30,6 @@ Sampson: When we are systematically analyzing the effects of our interventions, 
 ## Checkpoint: What are the limitations of CAP?
 
 Sampson: A key limitation of CAP is the expense—balancing that significant financial and resource demand against other programming resources is critical. Another limitation is that you can only go so deep in many conflict-affected areas because of security restrictions and a distrust of outsiders. Plus, knowledge and access can change over time. Finally, utility is paramount; if you’re not careful you can find yourself collecting information just for the sake of it—if you’re not going to incorporate your data into programs on the ground, then it’s not worth collecting.
-
-
 
 ## Checkpoint: What is NIWETU trying to achieve through CAP and have you been successful?
 
