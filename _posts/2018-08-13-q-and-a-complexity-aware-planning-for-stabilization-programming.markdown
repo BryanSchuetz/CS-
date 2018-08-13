@@ -7,6 +7,7 @@ tags:
 - Research
 Author: Christy Martins
 social-image: "/uploads/IMG_Christy%20Martins.jpg"
+thumbnail: "/uploads/800px-Street_scene_in_Marsabit,_North_Kenya-c71172.jpg"
 Small Image: "/uploads/800px-Street_scene_in_Marsabit,_North_Kenya-c71172.jpg"
 ---
 
@@ -19,9 +20,10 @@ In this post, we explore the nuances of CAP with [John Sampson](https://www.dai.
 ## Checkpoint: How does the CAP cycle affect how you implement stabilization programming?
 
 Sampson: Simply put, a well-designed and well-run CAP cycle results in better programming. CAP goes beyond regular strategic reviews and forces teams into uncomfortable positions where data and research challenge assumptions—daily. This continuous feedback opens new thinking for policy and programming and ensures we are developing our activities on the basis of evidence. 
+
 Stabilization is all about working in a constantly evolving system. Violent extremist organizations, for example, are constantly adjusting their tactics. A CAP cycle with regular rounds of research and learning points helps us assess the relevance and effectiveness of our activities and apply what we learn to our overall strategy.
 
-![IMG_Christy Martins](/uploads/IMG_Christy%20Martins.jpg)`CVE expert Othman Mujahid tests participants’ knowledge of VE and CVE dynamics at a training event in Kibra, Nairobi. Photo by Hank Nelson`
+![IMG_Christy Martins](/uploads/IMG_Christy%20Martins.jpg)`CVE expert Othman Mujahid tests participants’ knowledge of violent extremism and countering violent extremism dynamics at a training event in Kibra, Nairobi. Photo by Hank Nelson.`
 
 ## Checkpoint: What are the benefits of CAP?
 
