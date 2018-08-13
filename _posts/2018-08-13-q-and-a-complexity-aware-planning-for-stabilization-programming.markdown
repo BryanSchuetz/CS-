@@ -5,6 +5,8 @@ date: 2018-08-13 11:42:00 Z
 
 In complex and unstable environments, standard performance monitoring is often insufficient to ensure activities remain relevant and adapt to the evolving ecosystem in which they are implemented. DAI’s complexity-aware planning (CAP) cycle is designed for situations where the understanding of a country’s conflict is narrow, conditions are constantly in flux, and buy-in from stakeholders may be limited. CAP embeds performance monitoring in the continual assessment of social, political, and security dynamics, and provides a system for integrating research and situational awareness with activity design, monitoring and evaluation, and strategy. It monitors unanticipated outcomes, considering multiple pathways of change and causal logic by examining actors, influencers, and relationships; system factors, dynamics, and qualities; and conflict triggers and events.
 
+<!--more-->
+
 In this post, we explore the nuances of CAP with John Sampson, Chief of Party of NiWajibu Wetu (NIWETU), a U.S. Agency for International Development initiative to reduce violent extremism among at-risk individuals and communities in Kenya. As a recent example, CAP-based scanning picked up the arrest of influential cleric Sheikh Guyo Gosa by the Anti-Terror Police Unit earlier this year. The arrest sparked friction in Marsabit town, resulting in clashes that led to property damage and deaths. NIWETU immediately activated a rapid response expert to identify key actors in the conflict, examine the tensions and any residual issues, and recommend actions for government and NIWETU engagement. 
 
 Checkpoint: How does the CAP cycle affect how you implement stabilization programming?
