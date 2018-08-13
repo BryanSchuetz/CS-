@@ -1,6 +1,7 @@
 ---
 title: 'Q&A: Complexity-Aware Planning for Stabilization Programming'
 date: 2018-08-13 11:42:00 Z
+published: false
 ---
 
 In complex and unstable environments, standard performance monitoring is often insufficient to ensure activities remain relevant and adapt to the evolving ecosystem in which they are implemented. DAI’s complexity-aware planning (CAP) cycle is designed for situations where the understanding of a country’s conflict is narrow, conditions are constantly in flux, and buy-in from stakeholders may be limited. CAP embeds performance monitoring in the continual assessment of social, political, and security dynamics, and provides a system for integrating research and situational awareness with activity design, monitoring and evaluation, and strategy. It monitors unanticipated outcomes, considering multiple pathways of change and causal logic by examining actors, influencers, and relationships; system factors, dynamics, and qualities; and conflict triggers and events.
