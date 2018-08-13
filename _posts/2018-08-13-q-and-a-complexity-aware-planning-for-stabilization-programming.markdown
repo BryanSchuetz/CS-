@@ -2,6 +2,8 @@
 title: 'Q&A: Complexity-Aware Planning for Stabilization Programming'
 date: 2018-08-13 11:42:00 Z
 published: false
+Author: Christy Martins
+social-image: "/uploads/IMG_Christy%20Martins.jpg"
 ---
 
 In complex and unstable environments, standard performance monitoring is often insufficient to ensure activities remain relevant and adapt to the evolving ecosystem in which they are implemented. DAI’s complexity-aware planning (CAP) cycle is designed for situations where the understanding of a country’s conflict is narrow, conditions are constantly in flux, and buy-in from stakeholders may be limited. CAP embeds performance monitoring in the continual assessment of social, political, and security dynamics, and provides a system for integrating research and situational awareness with activity design, monitoring and evaluation, and strategy. It monitors unanticipated outcomes, considering multiple pathways of change and causal logic by examining actors, influencers, and relationships; system factors, dynamics, and qualities; and conflict triggers and events.
@@ -22,7 +24,9 @@ Sampson: When we are systematically analyzing the effects of our interventions, 
 ## Checkpoint: What are the limitations of CAP?
 
 Sampson: A key limitation of CAP is the expense—balancing that significant financial and resource demand against other programming resources is critical. Another limitation is that you can only go so deep in many conflict-affected areas because of security restrictions and a distrust of outsiders. Plus, knowledge and access can change over time. Finally, utility is paramount; if you’re not careful you can find yourself collecting information just for the sake of it—if you’re not going to incorporate your data into programs on the ground, then it’s not worth collecting.
- 
+
+
+
 ## Checkpoint: What is NIWETU trying to achieve through CAP and have you been successful?
 
 Sampson: We focus on three outcomes through the CAP cycle. 
