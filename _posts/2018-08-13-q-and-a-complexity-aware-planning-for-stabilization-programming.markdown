@@ -4,6 +4,7 @@ date: 2018-08-13 11:42:00 Z
 tags:
 - CVE
 - Programing
+- Research
 Author: Christy Martins
 social-image: "/uploads/IMG_Christy%20Martins.jpg"
 ---
@@ -28,8 +29,6 @@ Sampson: When we are systematically analyzing the effects of our interventions, 
 ## Checkpoint: What are the limitations of CAP?
 
 Sampson: A key limitation of CAP is the expense—balancing that significant financial and resource demand against other programming resources is critical. Another limitation is that you can only go so deep in many conflict-affected areas because of security restrictions and a distrust of outsiders. Plus, knowledge and access can change over time. Finally, utility is paramount; if you’re not careful you can find yourself collecting information just for the sake of it—if you’re not going to incorporate your data into programs on the ground, then it’s not worth collecting.
-
-
 
 ## Checkpoint: What is NIWETU trying to achieve through CAP and have you been successful?
 
