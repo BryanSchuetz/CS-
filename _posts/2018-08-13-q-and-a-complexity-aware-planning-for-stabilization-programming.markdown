@@ -1,6 +1,9 @@
 ---
 title: 'Q&A: Complexity-Aware Planning for Stabilization Programming'
 date: 2018-08-13 11:42:00 Z
+tags:
+- CVE
+- Programing
 Author: Christy Martins
 social-image: "/uploads/IMG_Christy%20Martins.jpg"
 ---
