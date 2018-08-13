@@ -16,7 +16,9 @@ In this post, we explore the nuances of CAP with [John Sampson](https://www.dai.
 
 Sampson: Simply put, a well-designed and well-run CAP cycle results in better programming. CAP goes beyond regular strategic reviews and forces teams into uncomfortable positions where data and research challenge assumptions—daily. This continuous feedback opens new thinking for policy and programming and ensures we are developing our activities on the basis of evidence. 
 Stabilization is all about working in a constantly evolving system. Violent extremist organizations, for example, are constantly adjusting their tactics. A CAP cycle with regular rounds of research and learning points helps us assess the relevance and effectiveness of our activities and apply what we learn to our overall strategy.
- 
+
+![](/uploads/IMG_Christy%20Martins.jpg)`
+
 ## Checkpoint: What are the benefits of CAP?
 
 Sampson: When we are systematically analyzing the effects of our interventions, throughout the activity cycle, we can better manage risk and better apply the “do no harm” principle—which is particularly important given the sensitivities of this type of programming. Another benefit is improved responsiveness to changes in context, provided you have adaptive programming options to respond quickly. In NIWETU’s case, our rapid response roster complements our small grants function. A small grant may take days or weeks to design and deploy, whereas our rapid response experts can mobilize within 48 hours, as with the Marsabit example describe above. Without the rapid response function, that situation may have escalated and the window of opportunity for response may have closed.
