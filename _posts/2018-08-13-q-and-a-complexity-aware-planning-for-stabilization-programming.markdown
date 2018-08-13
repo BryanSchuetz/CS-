@@ -7,7 +7,7 @@ In complex and unstable environments, standard performance monitoring is often i
 
 <!--more-->
 
-In this post, we explore the nuances of CAP with John Sampson, Chief of Party of NiWajibu Wetu (NIWETU), a U.S. Agency for International Development initiative to reduce violent extremism among at-risk individuals and communities in Kenya. As a recent example, CAP-based scanning picked up the arrest of influential cleric Sheikh Guyo Gosa by the Anti-Terror Police Unit earlier this year. The arrest sparked friction in Marsabit town, resulting in clashes that led to property damage and deaths. NIWETU immediately activated a rapid response expert to identify key actors in the conflict, examine the tensions and any residual issues, and recommend actions for government and NIWETU engagement. 
+In this post, we explore the nuances of CAP with [John Sampson](https://www.dai.com/who-we-are/our-team/john-sampson), Chief of Party of [NiWajibu Wetu (NIWETU)](https://www.dai.com/our-work/projects/kenya-ni-wetu-ni-wajibu-wetu-niwetu), a U.S. Agency for International Development initiative to reduce violent extremism among at-risk individuals and communities in Kenya. As a recent example, CAP-based scanning picked up the arrest of influential cleric Sheikh Guyo Gosa by the Anti-Terror Police Unit earlier this year. The arrest sparked friction in Marsabit town, resulting in clashes that led to property damage and deaths. NIWETU immediately activated a rapid response expert to identify key actors in the conflict, examine the tensions and any residual issues, and recommend actions for government and NIWETU engagement. 
 
 ## Checkpoint: How does the CAP cycle affect how you implement stabilization programming?
 
