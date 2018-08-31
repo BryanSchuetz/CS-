@@ -7,7 +7,6 @@ tags:
 Author: Aaron Hoagland
 social-image: "/uploads/Map_V1.JPG"
 thumbnail: "/uploads/Map_V1.JPG"
-Small Image: "/uploads/Boko%20Haram%20-%20Blog.jpg"
 ---
 
 Is it possible to build a fragility index that is truly useful as a tool for day-to-day development programming on the ground? That’s what we’re trying in Nigeria.
