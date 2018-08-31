@@ -7,9 +7,10 @@ tags:
 Author: Aaron Hoagland
 social-image: "/uploads/Map_V1.JPG"
 thumbnail: "/uploads/Map_V1.JPG"
+Small Image: "/uploads/Boko%20Haram%20-%20Blog-40c172.jpg"
 ---
 
-Is it possible to build a fragility index that is truly useful as a tool for day-to-day development programming on the ground? That’s what we’re trying in Nigeria.
+![Boko%20Haram%20-%20Blog-40c172.jpg](/uploads/Boko%20Haram%20-%20Blog-40c172.jpg "Results of an attack in Nyanya by Boko Haram, Nigeria. (Photo by Voice of America via Wikimedia Commons)."){:.float-left}Is it possible to build a fragility index that is truly useful as a tool for day-to-day development programming on the ground? That’s what we’re trying in Nigeria.
 
 <!--more-->
 
