@@ -10,7 +10,7 @@ thumbnail: "/uploads/Map_V1.JPG"
 Small Image: "/uploads/Boko%20Haram%20-%20Blog.jpg"
 ---
 
-![Boko%20Haram%20-%20Blog.jpg](/uploads/Boko%20Haram%20-%20Blog.jpg "A result of a protest in Nyanya by Boko Haram. (Photo by Voice of America via Wikimedia Commons)."){:.float-left}Is it possible to build a fragility index that is truly useful as a tool for day-to-day development programming on the ground? That’s what we’re trying in Nigeria.
+![Boko%20Haram%20-%20Blog](/uploads/Boko%20Haram%20-%20Blog.jpg "A result of a protest in Nyanya by Boko Haram. (Photo by Voice of America via Wikimedia Commons)."){:.float-left}Is it possible to build a fragility index that is truly useful as a tool for day-to-day development programming on the ground? That’s what we’re trying in Nigeria.
 
 <!--more-->
 
