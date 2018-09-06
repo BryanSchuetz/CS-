@@ -1,7 +1,6 @@
 ---
 title: Adeel Jafferi
 date: 2018-07-20 08:48:00 Z
-published: false
 Job: Senior CVE Technical Specialist
 Image: "/uploads/Adeel%20Photo.jpg"
 ---
