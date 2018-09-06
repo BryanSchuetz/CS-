@@ -8,4 +8,5 @@ India Scribner is an Assistant for DAI’s Center for Secure and Stable States w
 
 <!--more>
 
-India speaks French and has studied Spanish, Arabic, and Chinese to enhance her work in the field
+India speaks French and has studied Spanish, Arabic, and Chinese to enhance her work in the field.
+
