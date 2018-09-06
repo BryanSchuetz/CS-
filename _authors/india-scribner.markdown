@@ -5,7 +5,7 @@ Job: Assistant
 Image: "/uploads/India%20Scribner.png"
 ---
 
-India Scribner is an Assistant for DAI’s Center for Secure and Stable States where she supports business development and project management for Stabilization, Transition, and CVE programming. Prior to joining DAI in April 2018, she managed project operations for USAID-funded gender and social inclusion programming in the DRC, Mali, and the MENA region. 
+India Scribner is an Assistant for DAI’s [Center for Secure and Stable States](https://www.dai.com/our-work/solutions/fragile-states) where she supports business development and project management for Stabilization, Transition, and CVE programming. Prior to joining DAI in April 2018, she managed project operations for USAID-funded gender and social inclusion programming in the DRC, Mali, and the MENA region. 
 
 <!--more-->
 
