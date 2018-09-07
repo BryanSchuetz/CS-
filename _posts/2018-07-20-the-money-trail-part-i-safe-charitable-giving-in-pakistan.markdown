@@ -10,7 +10,9 @@ Author: Adeel Jafferi
 
 Counter-threat finance (CTF)—the efforts to reduce the flow of money that funds terrorism and organized crime—has been a key component of the international community’s struggle against terrorism since the terror attacks of September 11, 2001. When we think of CTF, international banking, money laundering, and oil smuggling come to mind, but we don’t often think of international development. While early efforts succeeded in limiting terrorist groups’ access to international financial networks, these groups have fallen back on tried-and-true methods to keep the money flowing by exploiting charitable donations, mining and smuggling of natural resources, taxation, currency exchange, extortion, and criminal enterprises. By gaining control of territory and through carefully designed financial systems, the Islamic State enjoyed unprecedented access to financial resources. If we hope to succeed in choking violent extremist groups’ access to funds, it is time to recognize that development interventions can play a key role. In this, and in a second post, I will discuss how development practitioners can make concrete contributions to reducing extremist group financing and help vulnerable communities avoid inadvertently funding the very people who seek to destroy them.
 
-##Dangerous Generosity
+<!--more-->
+
+## Dangerous Generosity
 
 One of the main pillars of Islam is the injunction to give charity to those in need. Muslims answer this call to the tune of hundreds of billions, if not trillions, of dollars a year. Some estimates suggest that between $200 billion and $1 trillion is spent annually in Zakat charitable donations alone. This figure does not include other forms of Islamic charity such as Sadaqah, Fitrana, Kharj, or Khums. A developing country such as Pakistan, for example, gives more than $2 billion annually to charity—more than 1 percent of the country’s gross domestic product. In just one month during Ramadan 2017, British Muslims donated considerably more than $150 million. These figures are mind-blowing, and it is no surprise that extremist groups want in on the action.
 
