@@ -1,7 +1,6 @@
 ---
 title: 'The Money Trail, Part I: Safe Charitable Giving in Pakistan'
 date: 2018-09-10 00:00:00 Z
-published: false
 tags:
 - CVE
 - Fragile States
