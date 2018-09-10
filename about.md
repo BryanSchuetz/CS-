@@ -8,4 +8,4 @@ The social critic and author Christopher Hitchens wrote: *What can be asserted w
 
 Plainly stated, our goal is to “move the needle” on the complex problems of violent extremism and insurgency, political and security transitions, and community stabilization and cohesion. The purpose of this blog, therefore, is to create a community of practitioners with whom we can have these animated—and at times difficult—conversations about how to broaden the evidence base to both achieve development impact and support U.S. national security interests around these problem sets.
 
-Our blog is edited by [Kevin Casey](dai-global-checkpoint.com/authors/kevin-casey/), CS3 Director of Research, and managed by [Janene Sawers](dai-global-checkpoint.com/authors/janene-sawers/), CS3 Program Manager for countering violent extremism programming.
+Our blog is edited by [Kevin Casey](dai-global-checkpoint.com/authors/kevin-casey/), CS3 Director of Research, and managed by [Aaron Hoagland](dai-global-checkpoint.com/authors/aaron-hoagland/), CS3 Associate.
