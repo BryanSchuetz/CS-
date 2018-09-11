@@ -1,6 +1,7 @@
 ---
 title: Youth and Violent Extremism in Mindanao Philippines
 date: 2018-09-11 20:50:00 Z
+published: false
 Author:
 - Kevin Casey
 - David Pottebaum
