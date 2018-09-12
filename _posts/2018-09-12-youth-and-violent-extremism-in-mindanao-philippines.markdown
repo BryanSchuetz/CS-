@@ -6,8 +6,7 @@ tags:
 - Fragile States
 - Radicalization
 - Youth
-Author:
-  Author: "[David Pottebaum](https://www.dai.com/who-we-are/our-team/david-pottebaum)"
+Author: Skye Perske
 layout: post
 ---
 
