@@ -7,7 +7,7 @@ tags:
 - Radicalization
 - Youth
 - CVE
-Author: "[David Pottebaum](https://www.dai.com/who-we-are/our-team/david-pottebaum)"
+Author: Kevin Casey
 social-image: "/uploads/PEACE%20Picture.png"
 thumbnail: "/uploads/Mindanao%20Map.jpg"
 image: "/uploads/Mindanao%20Map.jpg"
