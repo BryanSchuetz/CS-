@@ -1,13 +1,18 @@
 ---
 title: Youth and Violent Extremism in Mindanao, Philippines
 date: 2018-09-12 00:00:00 Z
+tags:
+- Research
+- Fragile States
+- Radicalization
+- Youth
 Author: Kevin Casey
 layout: post
 ---
 
 Development responses to violent extremism are challenged by a lack of methods for rigorously testing assumptions about and determining the relative importance of different drivers of extremism. DAI’s Center for Secure and Stable States designed and implemented a mixed-methods research methodology for addressing these challenges on the Enhancing Governance, Accountability, and Engagement (ENGAGE) Project, funded in the Philippines by the U.S. Agency for International Development (USAID). Our analysis led to surprising empirical findings: less than half of the assumed drivers of extremism are significant predictors of support for violence and extremism, with some functioning in ways opposite to consensus understanding.
 
-<--more-->
+<!--more-->
 
 The research started with a list of the 18 assumed drivers of extremism based on a literature review, consultation with experts on extremism in the Philippines, and interviews with academics and local government representatives. To better understand how these drivers form pathways to extremism, detailed case studies of 25 members of armed and extremist groups in Mindanao were collected through semi-structured interviews with extremists themselves, members of their families, and close friends. Next, we designed an innovative quantitative survey questionnaire to test for correlations between the assumed drivers of extremism and support for violence and extreme ideologies. The research team collected a stratified random sample of more than 2,300 young people, including students at five universities and of high school students from 10 randomly selected local government units (LGUs) across ENGAGE’s project area. 
 
