@@ -11,7 +11,7 @@ social-image: "/uploads/PEACE%20Picture.png"
 layout: post
 ---
 
-Development responses to violent extremism are challenged by a lack of methods for rigorously testing assumptions about and determining the relative importance of different drivers of extremism. DAI’s Center for Secure and Stable States designed and implemented a mixed-methods research methodology for addressing these challenges on the Enhancing Governance, Accountability, and Engagement (ENGAGE) Project, funded in the Philippines by the U.S. Agency for International Development (USAID). Our analysis led to surprising empirical findings: less than half of the assumed drivers of extremism are significant predictors of support for violence and extremism, with some functioning in ways opposite to consensus understanding.
+Development responses to violent extremism are challenged by a lack of methods for rigorously testing assumptions about and determining the relative importance of different drivers of extremism. DAI’s Center for Secure and Stable States designed and implemented a mixed-methods research methodology for addressing these challenges on the ]Enhancing Governance, Accountability, and Engagement (ENGAGE) Project](https://www.dai.com/our-work/projects/philippines-enhancing-governance-accountability-and-engagement-engage), funded in the Philippines by the U.S. Agency for International Development (USAID). Our analysis led to surprising empirical findings: less than half of the assumed drivers of extremism are significant predictors of support for violence and extremism, with some functioning in ways opposite to consensus understanding.
 
 <!--more-->
 
