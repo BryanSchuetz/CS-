@@ -1,6 +1,7 @@
 ---
 title: Youth and Violent Extremism in Mindanao, Philippines
 date: 2018-09-12 00:00:00 Z
+Author: Kevin Casey
 layout: post
 ---
 
