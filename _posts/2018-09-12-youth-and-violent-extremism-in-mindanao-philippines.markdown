@@ -1,7 +1,7 @@
 ---
 title: Youth and Violent Extremism in Mindanao, Philippines
 date: 2018-09-12 00:00:00 Z
-layout: post
+layout: page
 ---
 
 Development responses to violent extremism are challenged by a lack of methods for rigorously testing assumptions about and determining the relative importance of different drivers of extremism. DAI’s Center for Secure and Stable States designed and implemented a mixed-methods research methodology for addressing these challenges on the Enhancing Governance, Accountability, and Engagement (ENGAGE) Project, funded in the Philippines by the U.S. Agency for International Development (USAID). Our analysis led to surprising empirical findings: less than half of the assumed drivers of extremism are significant predictors of support for violence and extremism, with some functioning in ways opposite to consensus understanding.
