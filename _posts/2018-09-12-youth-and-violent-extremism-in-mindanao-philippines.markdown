@@ -6,7 +6,9 @@ tags:
 - Fragile States
 - Radicalization
 - Youth
-Author: Kevin Casey
+Author:
+- Kevin Casey
+- "[David Pottebaum](https://www.dai.com/who-we-are/our-team/david-pottebaum)"
 layout: post
 ---
 
