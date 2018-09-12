@@ -6,7 +6,6 @@ tags:
 - Fragile States
 - Radicalization
 - Youth
-Author: Skye Perske
 layout: post
 ---
 
