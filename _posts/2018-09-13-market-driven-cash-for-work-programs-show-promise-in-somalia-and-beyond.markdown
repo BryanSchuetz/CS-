@@ -1,7 +1,6 @@
 ---
 title: Market-Driven Cash-for-Work Programs Show Promise in Somalia—and Beyond?
 date: 2018-09-13 19:04:00 Z
-published: false
 Author: James Naughton
 ---
 
