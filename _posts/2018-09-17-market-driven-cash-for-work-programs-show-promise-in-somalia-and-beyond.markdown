@@ -10,7 +10,7 @@ Image: "/uploads/Tractor.png"
 thumbnail: "/uploads/Canal%20Before.jpg"
 ---
 
-The Somali peninsula—home to 14.32 million people—suffered a devastating drought in early 2017, leading to widespread crop failures and livestock losses that have dangerously affected the region’s food security. The Food and Agriculture Organization (FAO) estimates that 30 percent of livestock has been lost. In the Somalia, losing crops and livestock means losing livelihood assets. Rural people struggling to sustain livelihoods often become more vulnerable to recruitment by extremist groups and are increasingly moving to the cities, exerting growing pressure on limited urban infrastructure.
+![Tractor.png](/uploads/Tractor.png "Sesame land preparation in Jowhar"){:.float-left}The Somali peninsula—home to 14.32 million people—suffered a devastating drought in early 2017, leading to widespread crop failures and livestock losses that have dangerously affected the region’s food security. The Food and Agriculture Organization (FAO) estimates that 30 percent of livestock has been lost. In the Somalia, losing crops and livestock means losing livelihood assets. Rural people struggling to sustain livelihoods often become more vulnerable to recruitment by extremist groups and are increasingly moving to the cities, exerting growing pressure on limited urban infrastructure.
 
 Typically, the response to a food crisis consists of humanitarian measures such as cash transfers or commodity supplies—direct delivery designed to get resources into the hands of the beneficiaries as quickly as possible. However, the U.K. Department for International Development (DFID) and Danida, Denmark's development agency, are funding a DAI-led programme that brings a market lens to the challenge—in ways that may be applicable to fragile environments beyond Somalia.
 
@@ -20,7 +20,7 @@ The [Promoting Inclusive Markets in Somalia (PIMS)](https://www.dai.com/our-work
 
 ## A Complementary Nexus
 
-![Tractor.png](/uploads/Tractor.png "Sesame land preparation in Jowhar"){:.float-left)An M4P approach addresses constraints within a market system, where good and services are exchanged. The market systems approach is delivered through interventions into a market system that address systemic constraints to growth, removing barriers to improve the core functions, supporting functions, and rules. The objective is to improve poor people’s participation in the market system.
+An M4P approach addresses constraints within a market system, where good and services are exchanged. The market systems approach is delivered through interventions into a market system that address systemic constraints to growth, removing barriers to improve the core functions, supporting functions, and rules. The objective is to improve poor people’s participation in the market system.
 
 M4P projects often address market systems using a value chain approach. This involves a mapping and analysis process and selecting value chains to engage in that show significant growth potential, to meet the growth agenda that underpins the market systems approach. Yet the PIMS market systems approach was not wholly focused on growth potential, rather the lens utilized for selecting value chains (ocean fisheries, sesame, and dairy) also incorporated social impact for a greater holistic growth profile and feasibility given the fragile environment. 
 
