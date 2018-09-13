@@ -6,7 +6,7 @@ tags:
 - Fragile States
 - Transition
 Author: James Naughton
-Image: "/uploads/Two%20Canals.png"
+Image: "/uploads/Tractor.png"
 thumbnail: "/uploads/Canal%20Before.jpg"
 ---
 
@@ -20,7 +20,7 @@ The [Promoting Inclusive Markets in Somalia (PIMS)](https://www.dai.com/our-work
 
 ## A Complementary Nexus
 
-An M4P approach addresses constraints within a market system, where good and services are exchanged. The market systems approach is delivered through interventions into a market system that address systemic constraints to growth, removing barriers to improve the core functions, supporting functions, and rules. The objective is to improve poor people’s participation in the market system.
+![Tractor.png](/uploads/Tractor.png "Sesame land preparation in Jowhar"){:.float-left)An M4P approach addresses constraints within a market system, where good and services are exchanged. The market systems approach is delivered through interventions into a market system that address systemic constraints to growth, removing barriers to improve the core functions, supporting functions, and rules. The objective is to improve poor people’s participation in the market system.
 
 M4P projects often address market systems using a value chain approach. This involves a mapping and analysis process and selecting value chains to engage in that show significant growth potential, to meet the growth agenda that underpins the market systems approach. Yet the PIMS market systems approach was not wholly focused on growth potential, rather the lens utilized for selecting value chains (ocean fisheries, sesame, and dairy) also incorporated social impact for a greater holistic growth profile and feasibility given the fragile environment. 
 
