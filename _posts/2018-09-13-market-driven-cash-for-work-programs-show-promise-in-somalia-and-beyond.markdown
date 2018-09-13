@@ -7,6 +7,7 @@ tags:
 - Transition
 Author: James Naughton
 Image: "/uploads/Two%20Canals.png"
+thumbnail: "/uploads/Canal%20Before.jpg"
 ---
 
 The Somali peninsula—home to 14.32 million people—suffered a devastating drought in early 2017, leading to widespread crop failures and livestock losses that have dangerously affected the region’s food security. The Food and Agriculture Organization (FAO) estimates that 30 percent of livestock has been lost. In the Somalia, losing crops and livestock means losing livelihood assets. Rural people struggling to sustain livelihoods often become more vulnerable to recruitment by extremist groups and are increasingly moving to the cities, exerting growing pressure on limited urban infrastructure.
