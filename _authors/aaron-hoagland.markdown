@@ -1,6 +1,7 @@
 ---
 title: Aaron Hoagland
 date: 2017-09-08 13:44:00 Z
+Job: Blog Manager
 Image: "/uploads/PersonImage.jpg"
 ---
 
