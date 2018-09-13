@@ -6,6 +6,8 @@ Author: James Naughton
 
 The Somali peninsula—home to 14.32 million people—suffered a devastating drought in early 2017, leading to widespread crop failures and livestock losses that have dangerously affected the region’s food security. The Food and Agriculture Organization (FAO) estimates that 30 percent of livestock has been lost. In the Somalia, losing crops and livestock means losing livelihood assets. Rural people struggling to sustain livelihoods often become more vulnerable to recruitment by extremist groups and are increasingly moving to the cities, exerting growing pressure on limited urban infrastructure.
 
+<!--more-->
+
 Typically, the response to a food crisis consists of humanitarian measures such as cash transfers or commodity supplies—direct delivery designed to get resources into the hands of the beneficiaries as quickly as possible. However, the U.K. Department for International Development (DFID) and Danida, Denmark's development agency, are funding a DAI-led programme that brings a market lens to the challenge—in ways that may be applicable to fragile environments beyond Somalia.
 
 The [Promoting Inclusive Markets in Somalia (PIMS)](https://www.dai.com/our-work/projects/somalia-promoting-inclusive-markets-somalia) programme works in all three Somali regions: Somaliland, Puntland, and South Somalia. PIMS is a market development programme using the making markets work for the poor approach, or M4P, combined with a cash-for-work (CfW) component to address infrastructure constraints. 
