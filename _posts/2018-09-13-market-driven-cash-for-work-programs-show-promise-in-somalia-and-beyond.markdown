@@ -2,7 +2,7 @@
 title: Market-Driven Cash-for-Work Programmes Show Promise in Somalia—and Beyond?
 date: 2018-09-13 19:04:00 Z
 Author: James Naughton
-Image: "/uploads/Sluice%20Gate%20Installation.jpg"
+Image: "/uploads/Canal%20Before.jpg"
 ---
 
 The Somali peninsula—home to 14.32 million people—suffered a devastating drought in early 2017, leading to widespread crop failures and livestock losses that have dangerously affected the region’s food security. The Food and Agriculture Organization (FAO) estimates that 30 percent of livestock has been lost. In the Somalia, losing crops and livestock means losing livelihood assets. Rural people struggling to sustain livelihoods often become more vulnerable to recruitment by extremist groups and are increasingly moving to the cities, exerting growing pressure on limited urban infrastructure.
@@ -28,6 +28,8 @@ In 2016, to limit the danger that many Somalis face from drought, PIMS dramatica
 We determine whether a proposed intervention a) deliver lasting infrastructure improvements that can be managed by the community; b) generate a significant economic benefit for that community; and c) provide an appropriate emergency response for the population under stress. 
 
 With these principles in mind, the PIMS team determined that canal rehabilitation would be offer the most sustainable impact with immediate benefits for the community under duress. Although it had never been a priority for the programme, canal rehabilitation became a focal point as PIMS adapted to the deteriorating conditions. Concentrated in the Shabelle Valley of South Somalia, this CfW programming has resulted in additional land for production of sesame and other crops by improving irrigation during a vital growing season. At the same time, participants learn how to repair basic infrastructure and earn cash to compensate for their livelihood losses. 
+
+![Canal%20Before.jpg](/uploads/Canal%20Before.jpg)`Workers ready to start canal rehabilitation. Photo by DAI`
 
 PIMS also introduced mobile money payments for the work, addressing the challenge of moving large volumes of money around in rural areas. In a traditional disaster reconstruction scenario payment is a challenge, but even more so in areas with no government control. Using a mobile payment system kept workers from being pressed to hand over physical cash and removed the danger and cost to the implementers of having to bring large sums of cash into conflict zones. 
 
