@@ -29,7 +29,7 @@ We determine whether a proposed intervention a) deliver lasting infrastructure i
 
 With these principles in mind, the PIMS team determined that canal rehabilitation would be offer the most sustainable impact with immediate benefits for the community under duress. Although it had never been a priority for the programme, canal rehabilitation became a focal point as PIMS adapted to the deteriorating conditions. Concentrated in the Shabelle Valley of South Somalia, this CfW programming has resulted in additional land for production of sesame and other crops by improving irrigation during a vital growing season. At the same time, participants learn how to repair basic infrastructure and earn cash to compensate for their livelihood losses. 
 
-![Canal%20Before.jpg](/uploads/Canal%20Before.jpg)`Workers ready to start canal rehabilitation. Photo by DAI`
+![Canal%20Before.jpg](/uploads/Canal%20Before.jpg)`Workers ready to start canal rehabilitation in Shabelle Valley, Somalia. Photo by DAI`
 
 PIMS also introduced mobile money payments for the work, addressing the challenge of moving large volumes of money around in rural areas. In a traditional disaster reconstruction scenario payment is a challenge, but even more so in areas with no government control. Using a mobile payment system kept workers from being pressed to hand over physical cash and removed the danger and cost to the implementers of having to bring large sums of cash into conflict zones. 
 
