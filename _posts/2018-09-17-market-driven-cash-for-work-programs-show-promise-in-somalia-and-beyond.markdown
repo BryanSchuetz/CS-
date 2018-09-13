@@ -1,6 +1,6 @@
 ---
 title: Market-Driven Cash-for-Work Programmes Show Promise in Somalia—and Beyond?
-date: 2018-09-13 19:04:00 Z
+date: 2018-09-17 00:00:00 Z
 tags:
 - Programing
 - Fragile States
