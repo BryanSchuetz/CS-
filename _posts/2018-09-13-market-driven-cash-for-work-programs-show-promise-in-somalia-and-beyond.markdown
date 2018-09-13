@@ -2,7 +2,7 @@
 title: Market-Driven Cash-for-Work Programmes Show Promise in Somalia—and Beyond?
 date: 2018-09-13 19:04:00 Z
 Author: James Naughton
-Image: "/uploads/Sluice%20gates.jpg"
+Image: "/uploads/Sluice%20Gate%20Installation.jpg"
 ---
 
 The Somali peninsula—home to 14.32 million people—suffered a devastating drought in early 2017, leading to widespread crop failures and livestock losses that have dangerously affected the region’s food security. The Food and Agriculture Organization (FAO) estimates that 30 percent of livestock has been lost. In the Somalia, losing crops and livestock means losing livelihood assets. Rural people struggling to sustain livelihoods often become more vulnerable to recruitment by extremist groups and are increasingly moving to the cities, exerting growing pressure on limited urban infrastructure.
@@ -47,7 +47,7 @@ Feedback from all sides indicates the rehabilitation has contributed to substant
 
 The canal rehabilitation has directly generated 198,500 CfW days, with $595,500 distributed to participants through CfW days helping the community overcome the most severe impacts from the drought. Looking ahead, the programme has designed three more projects that will see an additional 131 kilometers of canals rehabilitated (more than 5,000 hectares opened up)—plus 27 culverts and 26 water intake gates—entailing 140,000 workdays for participants and injecting $750,000 into the local economy through CfW earnings, contractor payments, and extension services.
 
-![Sluice%20gates.jpg](/uploads/Sluice%20gates.jpg)`The installation of a sluice gate through a cash-for-work programme. Photo by DAI`
+![Sluice%20Gate%20Installation.jpg](/uploads/Sluice%20Gate%20Installation.jpg)`The installation of a sluice gate through a cash-for-work programme. Photo by DAI`
 
 The injection of liquidity provided through the initial canal projects came at a moment of critically constrained cash flow in the local economy and helped minimize price fluctuations at a time of worsening food insecurity. Delivering on the further pipeline of canal projects offers a form of “pre-insurance” as a livelihood mitigation measure, prior to any future drought. Given the increasing likelihood of a La Nina event and the associated climate variation in East Africa, such pre-emptive measures take on added importance. 
 
