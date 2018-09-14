@@ -1,5 +1,5 @@
 ---
-title: Market-Driven Cash-for-Work Programmes Show Promise in Somalia—and Beyond?
+title: Market-Driven Cash-for-Work Programs Show Promise in Somalia—and Beyond?
 date: 2018-09-17 00:00:00 Z
 published: false
 tags:
