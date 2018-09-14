@@ -71,4 +71,4 @@ The unemployment crisis may be even worse in urban Somalia. Mogadishu, for examp
 
 In many fragile states like Somalia, humanitarian and economic development programs are moving closer together in DFID’s thinking, and implementers should be addressing these dual objectives in ways that are mutually supportive. In reflecting on PIMS’ combination of resilience programming with a market systems methodology—the SIR framework informed by M4P analysis—we hope to be part of the debate on how CfW initiatives can tackle emergency issues while also delivering enduring benefits in terms of economic growth and social stability. 
 
-*[James Naughton](https://www.linkedin.com/in/james-naughton-69973417/) is the Technical Advisor and Investment Promotion Manager for Promoting Inclusive Markets in Somalia.*
+*James Naughton is the Technical Advisor and Investment Promotion Manager for Promoting Inclusive Markets in Somalia.*
