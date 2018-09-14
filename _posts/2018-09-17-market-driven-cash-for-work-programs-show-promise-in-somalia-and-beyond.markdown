@@ -11,6 +11,8 @@ thumbnail: "/uploads/Canal%20Before.jpg"
 Image: "/uploads/Tractor.png"
 ---
 
+*Editor’s Note: This post summarizes a [report](https://docs.wixstatic.com/ugd/f9ec1c_30a110c3682b4acfa185d34e7b1d3614.pdf) originally prepared for the Centre for Development Results.* 
+
 ![Tractor.png](/uploads/Tractor.png "Sesame land preparation in Jowhar"){:.float-left}The Somali peninsula—home to 14.32 million people—suffered a devastating drought in early 2017, leading to widespread crop failures and livestock losses that have dangerously affected the region’s food security. The Food and Agriculture Organization (FAO) estimates that 30 percent of livestock has been lost. In Somalia, losing crops and livestock means losing livelihood assets. Rural people struggling to sustain livelihoods often become more vulnerable to recruitment by extremist groups and are increasingly moving to the cities, exerting growing pressure on limited urban infrastructure.
 
 Typically, the response to a food crisis consists of humanitarian measures such as cash transfers or commodity supplies—direct delivery designed to get resources into the hands of the beneficiaries as quickly as possible. However, the U.K. Department for International Development (DFID) and Danida, Denmark's development agency, are funding a DAI-led program that brings a market lens to the challenge—in ways that may be applicable to fragile environments beyond Somalia.
