@@ -5,7 +5,7 @@ tags:
 - Programing
 - Fragile States
 - Transition
-Author: James Naughton
+Author: "[James Naughton](https://www.linkedin.com/in/james-naughton-69973417/) "
 social-image: "/uploads/Sluice%20Gate%20Installation.jpg"
 thumbnail: "/uploads/Canal%20Before.jpg"
 Image: "/uploads/Tractor.png"
