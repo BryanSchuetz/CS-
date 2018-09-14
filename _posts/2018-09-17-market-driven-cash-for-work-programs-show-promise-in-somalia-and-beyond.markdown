@@ -1,5 +1,5 @@
 ---
-title: Market-Driven Cash-for-Work Programs Show Promise in Somalia—and Beyond?
+title: Market-Driven Cash-for-Work Projects Show Promise in Somalia—and Beyond?
 date: 2018-09-17 00:00:00 Z
 published: false
 tags:
@@ -12,13 +12,13 @@ thumbnail: "/uploads/Canal%20Before.jpg"
 Image: "/uploads/Tractor.png"
 ---
 
-![Tractor.png](/uploads/Tractor.png "Sesame land preparation in Jowhar"){:.float-left}The Somali peninsula—home to 14.32 million people—suffered a devastating drought in early 2017, leading to widespread crop failures and livestock losses that have dangerously affected the region’s food security. The Food and Agriculture Organization (FAO) estimates that 30 percent of livestock has been lost. In the Somalia, losing crops and livestock means losing livelihood assets. Rural people struggling to sustain livelihoods often become more vulnerable to recruitment by extremist groups and are increasingly moving to the cities, exerting growing pressure on limited urban infrastructure.
+![Tractor.png](/uploads/Tractor.png "Sesame land preparation in Jowhar"){:.float-left}The Somali peninsula—home to 14.32 million people—suffered a devastating drought in early 2017, leading to widespread crop failures and livestock losses that have dangerously affected the region’s food security. The Food and Agriculture Organization (FAO) estimates that 30 percent of livestock has been lost. In Somalia, losing crops and livestock means losing livelihood assets. Rural people struggling to sustain livelihoods often become more vulnerable to recruitment by extremist groups and are increasingly moving to the cities, exerting growing pressure on limited urban infrastructure.
 
-Typically, the response to a food crisis consists of humanitarian measures such as cash transfers or commodity supplies—direct delivery designed to get resources into the hands of the beneficiaries as quickly as possible. However, the U.K. Department for International Development (DFID) and Danida, Denmark's development agency, are funding a DAI-led programme that brings a market lens to the challenge—in ways that may be applicable to fragile environments beyond Somalia.
+Typically, the response to a food crisis consists of humanitarian measures such as cash transfers or commodity supplies—direct delivery designed to get resources into the hands of the beneficiaries as quickly as possible. However, the U.K. Department for International Development (DFID) and Danida, Denmark's development agency, are funding a DAI-led program that brings a market lens to the challenge—in ways that may be applicable to fragile environments beyond Somalia.
 
 <!--more-->
 
-The [Promoting Inclusive Markets in Somalia (PIMS)](https://www.dai.com/our-work/projects/somalia-promoting-inclusive-markets-somalia) programme works in all three Somali regions: Somaliland, Puntland, and South Somalia. PIMS is a market development programme using the making markets work for the poor approach, or M4P, combined with a cash-for-work (CfW) component to address infrastructure constraints. 
+The [Promoting Inclusive Markets in Somalia (PIMS)](https://www.dai.com/our-work/projects/somalia-promoting-inclusive-markets-somalia) programme works in all three Somali regions: Somaliland, Puntland, and South Somalia. PIMS is a market development project using the making markets work for the poor approach, or M4P, combined with a cash-for-work (CfW) component to address infrastructure constraints. 
 
 ## A Complementary Nexus
 
@@ -30,13 +30,13 @@ Creating inclusive markets is the underlying thesis behind PIMS. However, a natu
 
 ## CfW as a Crisis Response
 
-In 2016, to limit the danger that many Somalis face from drought, PIMS dramatically scaled up its CfW efforts. CfW programmes, traditionally viewed as a way of providing assistance to people during emergencies, have typically paid little attention to sustainability. PIMS, by contrast, puts sustainability at the heart of its CfW programming, selecting interventions based on their sustainability, impact, and response.
+In 2016, to limit the danger that many Somalis face from drought, PIMS dramatically scaled up its CfW efforts. CfW projects, traditionally viewed as a way of providing assistance to people during emergencies, have typically paid little attention to sustainability. PIMS, by contrast, puts sustainability at the heart of its CfW programming, selecting interventions based on their sustainability, impact, and response.
 
 We determine whether a proposed intervention a) deliver lasting infrastructure improvements that can be managed by the community; b) generate a significant economic benefit for that community; and c) provide an appropriate emergency response for the population under stress. 
 
-With these principles in mind, the PIMS team determined that canal rehabilitation would be offer the most sustainable impact with immediate benefits for the community under duress. Although it had never been a priority for the programme, canal rehabilitation became a focal point as PIMS adapted to the deteriorating conditions. Concentrated in the Shabelle Valley of South Somalia, this CfW programming has resulted in additional land for production of sesame and other crops by improving irrigation during a vital growing season. At the same time, participants learn how to repair basic infrastructure and earn cash to compensate for their livelihood losses. 
+With these principles in mind, the PIMS team determined that canal rehabilitation would be offer the most sustainable impact with immediate benefits for the community under duress. Although it had never been a priority, canal rehabilitation became a focal point as PIMS adapted to the deteriorating conditions. Concentrated in the Shabelle Valley of South Somalia, this CfW programming has resulted in additional land for production of sesame and other crops by improving irrigation during a vital growing season. At the same time, participants learn how to repair basic infrastructure and earn cash to compensate for their livelihood losses. 
 
-![Canal%20Before.jpg](/uploads/Canal%20Before.jpg)`Workers ready to start canal rehabilitation in Shabelle Valley, Somalia. Photo by DAI`
+![Canal%20Before.jpg](/uploads/Canal%20Before.jpg)`Workers ready to start canal rehabilitation in Shabelle Valley, Somalia. Photo by DAI.`
 
 PIMS also introduced mobile money payments for the work, addressing the challenge of moving large volumes of money around in rural areas. In a traditional disaster reconstruction scenario payment is a challenge, but even more so in areas with no government control. Using a mobile payment system kept workers from being pressed to hand over physical cash and removed the danger and cost to the implementers of having to bring large sums of cash into conflict zones. 
 
