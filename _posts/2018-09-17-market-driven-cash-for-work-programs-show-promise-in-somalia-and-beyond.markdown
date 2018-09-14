@@ -1,13 +1,14 @@
 ---
 title: Market-Driven Cash-for-Work Programmes Show Promise in Somalia—and Beyond?
 date: 2018-09-17 00:00:00 Z
+published: false
 tags:
 - Programing
 - Fragile States
 - Transition
 Author: James Naughton
-Image: "/uploads/Tractor.png"
 thumbnail: "/uploads/Canal%20Before.jpg"
+Image: "/uploads/Tractor.png"
 ---
 
 ![Tractor.png](/uploads/Tractor.png "Sesame land preparation in Jowhar"){:.float-left}The Somali peninsula—home to 14.32 million people—suffered a devastating drought in early 2017, leading to widespread crop failures and livestock losses that have dangerously affected the region’s food security. The Food and Agriculture Organization (FAO) estimates that 30 percent of livestock has been lost. In the Somalia, losing crops and livestock means losing livelihood assets. Rural people struggling to sustain livelihoods often become more vulnerable to recruitment by extremist groups and are increasingly moving to the cities, exerting growing pressure on limited urban infrastructure.
