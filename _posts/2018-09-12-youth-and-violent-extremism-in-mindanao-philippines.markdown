@@ -26,4 +26,4 @@ The results show that concerns among young people about corruption, human rights
 
 These findings carry significant implications for how youth and extremism should be addressed in Mindanao, particularly in the aftermath of the Marawi siege. Additionally, this research approach presents a methodology that can be modified and applied in other contexts to help development practitioners better evaluate assumptions regarding drivers of extremism and design more appropriate programming.
 
-[Full Research PDF](https://www.dai.com/uploads/Youth%20and%20Violent%20Extremism%20in%20Mindanao,%20Philippines.pdf)
+[Full Research Paper](https://www.dai.com/uploads/Youth%20and%20Violent%20Extremism%20in%20Mindanao,%20Philippines.pdf)
