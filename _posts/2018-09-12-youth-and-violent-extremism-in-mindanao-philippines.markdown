@@ -1,5 +1,5 @@
 ---
-title: Youth and Violent Extremism in Mindanao, Philippines
+title: 'Report: Youth and Violent Extremism in Mindanao, Philippines'
 date: 2018-09-12 00:00:00 Z
 tags:
 - Research
