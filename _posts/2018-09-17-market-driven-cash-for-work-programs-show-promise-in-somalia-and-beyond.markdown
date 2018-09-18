@@ -27,7 +27,7 @@ CfW programming has emerged as a natural part of PIMS’ inclusive market growth
 
 ## CfW as a Crisis Response
 
-In 2016, to limit the danger that many Somalis face from drought, PIMS dramatically scaled up its CfW efforts. CfW projects, traditionally viewed as a way of providing assistance to people during emergencies, have typically paid little attention to sustainability. PIMS, by contrast, puts sustainability at the heart of its CfW programming, selecting interventions based on their sustainability, impact, and response.
+In 2016, to limit the danger that many Somalis face from drought, PIMS dramatically scaled up its CfW efforts. CfW projects, traditionally viewed as a way of providing assistance to people during emergencies, have typically paid little attention to sustainability. PIMS, by contrast, puts sustainability at the heart of its CfW programming, selecting interventions based on their sustainability, impact, and response. We determine whether a proposed intervention will a) deliver lasting infrastructure improvements that can be managed by the community; b) generate a significant economic benefit for that community; and c) provide an appropriate emergency response for the population under stress. 
 
 We determine whether a proposed intervention will a) deliver lasting infrastructure improvements that can be managed by the community; b) generate a significant economic benefit for that community; and c) provide an appropriate emergency response for the population under stress. 
 
