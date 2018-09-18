@@ -33,7 +33,7 @@ With these principles in mind, the PIMS team determined that canal rehabilitatio
 
 ![Canal%20Before.jpg](/uploads/Canal%20Before.jpg)`Workers ready to start canal rehabilitation in Shabelle Valley, Somalia. Photo by DAI.`
 
-PIMS also introduced mobile money payments for the work, addressing the challenge of moving large volumes of money around in rural areas. In a traditional disaster reconstruction scenario payment is a challenge, but even more so in areas with no government control. Using a mobile payment system kept workers from being pressed to hand over physical cash and removed the danger and cost to the implementers of having to bring large sums of cash into conflict zones. 
+PIMS also introduced mobile money payments for the work, addressing the challenge of moving large volumes of money around in rural areas. In a traditional disaster reconstruction scenario payment is a challenge, but even more so in areas with no government control. Using a mobile payment system kept workers from being pressed to handle physical cash and removed the danger and cost to the implementers of having to bring large sums of cash into conflict zones. 
 
 ## Creating Productive Relationships to Achieve Impact
 
