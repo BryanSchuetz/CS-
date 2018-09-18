@@ -49,7 +49,7 @@ The local firms managed the activities in conjunction with the community as a wi
 
 ## PIMS CfW Achievements 
 
-Feedback from all sides indicates the rehabilitation has contributed to substantially increased local crop yields and improved food security; a large-scale survey has just begun to complement these anecdotal reports with quantitative data. Unlike donor responses that provide services for free, PIMS’ adaptive CfW initiative will minimize market distortion and allow market development after the intervention has ended.  
+Feedback from all sides indicates the rehabilitation has contributed to substantially increased local crop yields and improved food security; a large-scale survey has just begun to complement these anecdotal reports with quantitative data. Unlike some donor responses that provide services for free, PIMS’ adaptive CfW initiative will minimize market distortion and allow market development after the intervention has ended.  
 
 The canal rehabilitation has directly generated 198,500 CfW days, with $595,500 distributed to participants through CfW days helping the community overcome the most severe impacts from the drought. Looking ahead, the project has designed three more projects that will see an additional 131 kilometers of canals rehabilitated (more than 5,000 hectares opened up)—plus 27 culverts and 26 water intake gates—entailing 140,000 workdays for participants and injecting $750,000 into the local economy through CfW earnings, contractor payments, and extension services.
 
