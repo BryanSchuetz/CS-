@@ -39,7 +39,7 @@ PIMS also introduced mobile money payments for the work, addressing the challeng
 
 All CfW programming was community-led in the planning stage. PIMS established community-led local management committees and provided training on sustainability, conflict management, and the proper use and management of renovated canals, so that the community could maintain its new assets after PIMS exits. As of November 2017, these assets amount to 87 kilometers of canals which have opened up more than 1,700 hectares of productive land. The community agreed canal rehabilitation was what they needed. The communities also saw the productive value the longer-term assets would generate. 
 
-It is not by chance that the communities and local firms became engaged with the PIMS CfW activities. Following the original value chain and CfW growth strategies, communities were mapped, and relationships built along with prospective lead firms, providing partners for the community and PIMS team to engage with when the drought occurred. Having the existing relationships with the lead firms and communities was crucial. 
+It is not by chance that the communities and local firms became engaged with the PIMS CfW activities. Following the original value chain and CfW growth strategies, communities were mapped and relationships built along with prospective lead firms, providing partners for the community and PIMS team to engage with when the drought occurred. Having the existing relationships with the lead firms and communities was crucial. 
 
 ![Two%20Canals.png](/uploads/Two%20Canals.png)`A canal rehabilitated by a cash-for-work programme, Somalia. Photo by DAI.`
 
