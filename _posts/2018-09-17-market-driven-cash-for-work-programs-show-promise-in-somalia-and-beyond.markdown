@@ -11,7 +11,7 @@ thumbnail: "/uploads/Canal%20Before.jpg"
 Image: "/uploads/Tractor.png"
 ---
 
-*Editor’s Note: This post summarizes a [report](https://docs.wixstatic.com/ugd/f9ec1c_30a110c3682b4acfa185d34e7b1d3614.pdf) originally prepared for the Centre for Development Results.* 
+*Editor’s Note: This post expands on a [report](https://docs.wixstatic.com/ugd/f9ec1c_30a110c3682b4acfa185d34e7b1d3614.pdf) originally prepared for the Centre for Development Results.* 
 
 ![Tractor.png](/uploads/Tractor.png "Sesame land preparation in Jowhar"){:.float-left}The Somali peninsula—home to 14.32 million people—suffered a devastating drought in early 2017, leading to widespread crop failures and livestock losses that have dangerously affected the region’s food security. The Food and Agriculture Organization (FAO) estimates that 30 percent of livestock has been lost. In Somalia, losing crops and livestock means losing livelihood assets. Rural people struggling to sustain livelihoods often become more vulnerable to recruitment by extremist groups and are increasingly moving to the cities, exerting growing pressure on limited urban infrastructure.
 
@@ -21,13 +21,9 @@ Typically, the response to a food crisis consists of humanitarian measures such 
 
 The [Promoting Inclusive Markets in Somalia (PIMS)](https://www.dai.com/our-work/projects/somalia-promoting-inclusive-markets-somalia) programme works in all three Somali regions: Somaliland, Puntland, and South Somalia. PIMS is a market development project using the making markets work for the poor approach, or M4P, combined with a cash-for-work (CfW) component to address infrastructure constraints. 
 
-## A Complementary Nexus
+M4P projects address constraints within market systems where goods and services are exchanged. The objective is to improve poor people’s participation in those systems. Such projects often involve mapping and analyzing the value chains in the system, and focusing on those that show growth potential. Given its fragile environment, PIMS’ mandate is more holistic, and calls for the project to consider social impact in addition to growth potential as it weighs interventions. 
 
-An M4P approach addresses constraints within a market system, where goods and services are exchanged. The market systems approach is delivered through interventions into a market system that address systemic constraints to growth, removing barriers to improve the core functions, supporting functions, and rules. The objective is to improve poor people’s participation in the market system.
-
-M4P projects often address market systems using a value chain approach. This involves a mapping and analysis process and selecting value chains to engage in that show significant growth potential, to meet the growth agenda that underpins the market systems approach. Yet the PIMS market systems approach was not wholly focused on growth potential, rather the lens utilized for selecting value chains (ocean fisheries, sesame, and dairy) also incorporated social impact for a greater holistic growth profile and feasibility given the fragile environment. 
-
-Creating inclusive markets is the underlying thesis behind PIMS. However, a natural fit with the inclusive market growth agenda has been the CfW component. The initial value chain growth strategies identified the binding infrastructure constraints, and the potential benefits from removing these challenges. This meant that PIMS was able to launch its value chain interventions as a foundation, and then layer a CfW workstream over the interventions as a complementary activity to enhance impact. 
+CfW programming has emerged as a natural part of PIMS’ inclusive market growth agenda. The initial value chain analysis showed that infrastructure issues were inhibiting growth and made clear the potential benefits of removing these constraints. PIMS was able to launch its value chain interventions as a foundation, then layer on a CfW workstream as a complementary activity. 
 
 ## CfW as a Crisis Response
 
