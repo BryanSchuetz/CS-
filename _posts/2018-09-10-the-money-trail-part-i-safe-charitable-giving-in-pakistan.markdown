@@ -10,7 +10,8 @@ social-image:
 - "/uploads/800px-Afghan_children_request_leaflets_in_a_Bagram_bazaar-106ade.jpg"
 - "/uploads/Holding%20Money.jpg"
 - "/uploads/Old_Peshawar.jpg"
-thumbnail: "/uploads/800px-Afghan_children_request_leaflets_in_a_Bagram_bazaar-106ade.jpg"
+- "/uploads/Wazir_khan_mosque_Lhr.jpg"
+thumbnail: "/uploads/Wazir_khan_mosque_Lhr.jpg"
 ---
 
 ![Old_Peshawar.jpg](/uploads/Old_Peshawar.jpg "(Photo by Reenem via Wikimedia Commons)"){:.float-left}Counter-threat finance—the efforts to reduce the flow of money that funds terrorism and organized crime—has been a key component of the international community’s struggle against terrorism since the terror attacks of September 11, 2001. When we think of counter-threat finance, international banking, money laundering, and oil smuggling come to mind, but we don’t often think of international development. 
