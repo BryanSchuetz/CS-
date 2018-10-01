@@ -6,13 +6,14 @@ social-image:
 - "/uploads/Iraqi%20Courthouse.jpg"
 - 
 - 
+thumbnail: "/uploads/Iraqi%20Courthouse.jpg"
 ---
 
 ![Iraqi%20Courthouse.jpg](/uploads/Iraqi%20Courthouse.jpg){:.float-left}The rise of the Islamic State (IS) terrorist organization presented civilians caught in IS-controlled areas with limited choices. While a small percentage joined the group as combatants—either willfully or under coercion—more sought other ways to survive and provide for their families. In these situations, ordinary people can easily become complicit bystanders, willing collaborators, or disposable pawns; the conflict encompasses the whole community. In the wake of IS’s defeat, transitional justice systems must find ways to cope with these shades of culpability.
 
 In post-IS Iraq, regrettably, the sweeping, rigid application of an overly punitive law—lacking the nuance to address differences between outright collaborators and merely complicit bystanders—appears to risk exacerbating social tensions. But the good news, according to recent research, is that the Iraqi people themselves may be amenable to a more flexible and discriminating judicial approach . The question for international development practitioners is: How do we work within the current legal context while helping communities develop transitional justice options that allow for compassion and reconciliation along with justice and accountability?
 
-## Khaled the Slaughterhouse Man
+## A Man from Mosul: Khaled's Story
 
 The story of Khaled, a Mosul resident, highlights the perils of a strictly punitive approach to transitional justice that leaves little room for reconciliation and rehabilitation In 2014, Khaled was employed at a slaughterhouse feeding the animals. When IS occupied Mosul, it presented Khaled with a choice: lose his job or pledge allegiance to IS and continue working. Like many others, Khaled chose the latter, likely for the safety and wellbeing of himself and his family.
 
