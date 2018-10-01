@@ -2,6 +2,10 @@
 title: Iraq's Prisoner Dilemma
 date: 2018-10-01 19:43:00 Z
 Author: India Scribner
+social-image:
+- "/uploads/Iraqi%20Courthouse.jpg"
+- 
+- 
 ---
 
 The rise of the Islamic State (IS) terrorist organization presented civilians caught in IS-controlled areas with limited choices. While a small percentage joined the group as combatants—either willfully or under coercion—more sought other ways to survive and provide for their families. In these situations, ordinary people can easily become complicit bystanders, willing collaborators, or disposable pawns; the conflict encompasses the whole community. In the wake of IS’s defeat, transitional justice systems must find ways to cope with these shades of culpability.
