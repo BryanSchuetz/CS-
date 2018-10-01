@@ -1,6 +1,10 @@
 ---
 title: Iraq's Prisoner Dilemma
 date: 2018-10-01 19:43:00 Z
+tags:
+- Radicalization
+- Justice
+- Transition
 Author: India Scribner
 social-image:
 - "/uploads/Iraqi%20Courthouse.jpg"
