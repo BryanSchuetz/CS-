@@ -4,7 +4,7 @@ date: 2018-10-01 19:43:00 Z
 Author: India Scribner
 social-image:
 - "/uploads/Iraqi%20Courthouse.jpg"
-- 
+- "/uploads/800px-Rural_village_outside_of_Mosul,_Iraq.jpg"
 - 
 thumbnail: "/uploads/Iraqi%20Courthouse.jpg"
 ---
@@ -36,6 +36,8 @@ The punishment for those convicted is death (Article 4(1)).
 ## What Do Mosul Residents Think?
 
 The communal need for justice and accounting is critical in the post-conflict environment. So what do Mosul residents think are appropriate punishments for offenders? Research conducted by Mara Revkin and Kristen Kao shows that, in fact, Moslawis would prefer less punitive sentences for non-combatant members of IS than are currently allowed under Iraq’s Anti-Terrorism Law. In The Limits of Punishment: Iraq Case Study, Revkin asked Mosul residents about the appropriate sentence for hypothetical IS offenders who varied randomly by identity (gender, age, and tribal affiliation) and type of collaboration (paying taxes to IS, marrying an IS fighter, cooking for IS fighters, serving as a janitor in IS’s department of municipal services, or fighting for IS).
+
+![800px-Rural_village_outside_of_Mosul,_Iraq.jpg](/uploads/800px-Rural_village_outside_of_Mosul,_Iraq.jpg)`A small village outside of Mosul, Iraq.`
 
 For example, in considering punishment for a janitor working for IS, the position most analogous to Khaled’s role in the organization, 41 percent of those interviewed believe he should receive no punishment, 27 percent believe he should do community service, 6 percent support the 15-year prison sentence he received, and 15 percent believed he deserves the death penalty.
 
