@@ -1,5 +1,5 @@
 ---
-title: Iraq's Prisoner Dilemma
+title: Iraq’s Prisoner Dilemma
 date: 2018-10-01 19:43:00 Z
 tags:
 - Justice
@@ -16,9 +16,9 @@ thumbnail: "/uploads/Iraqi%20Courthouse.jpg"
 
 <!--more-->
 
-In post-IS Iraq, regrettably, the sweeping, rigid application of an overly punitive law—lacking the nuance to address differences between outright collaborators and merely complicit bystanders—appears to risk exacerbating social tensions. But the good news, according to recent research, is that the Iraqi people themselves may be amenable to a more flexible and discriminating judicial approach . The question for international development practitioners is: How do we work within the current legal context while helping communities develop transitional justice options that allow for compassion and reconciliation along with justice and accountability?
+In post-IS Iraq, regrettably, the sweeping, rigid application of an overly punitive law—lacking the nuance to address differences between outright collaborators and merely complicit bystanders—appears to risk exacerbating social tensions. But the good news, according to recent research, is that the Iraqi people themselves may be amenable to a more flexible and discriminating judicial approach. The question for international development practitioners is: How do we work within the current legal context while helping communities develop transitional justice options that allow for compassion and reconciliation along with justice and accountability?
 
-## A Man from Mosul: Khaled's Story
+## A Man from Mosul: Khaled’s Story
 
 The story of Khaled, a Mosul resident, highlights the perils of a strictly punitive approach to transitional justice that leaves little room for reconciliation and rehabilitation In 2014, Khaled was employed at a slaughterhouse feeding the animals. When IS occupied Mosul, it presented Khaled with a choice: lose his job or pledge allegiance to IS and continue working. Like many others, Khaled chose the latter, likely for the safety and wellbeing of himself and his family.
 
