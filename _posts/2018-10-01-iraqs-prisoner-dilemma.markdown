@@ -20,7 +20,7 @@ In post-IS Iraq, regrettably, the sweeping, rigid application of an overly punit
 
 ## A Man from Mosul: Khaled’s Story
 
-The story of Khaled, a Mosul resident, highlights the perils of a strictly punitive approach to transitional justice that leaves little room for reconciliation and rehabilitation In 2014, Khaled was employed at a slaughterhouse feeding the animals. When IS occupied Mosul, it presented Khaled with a choice: lose his job or pledge allegiance to IS and continue working. Like many others, Khaled chose the latter, likely for the safety and wellbeing of himself and his family.
+The story of Khaled, a Mosul resident, highlights the perils of a strictly punitive approach to transitional justice that leaves little room for reconciliation and rehabilitation In 2014, Khaled was employed at a slaughterhouse, in charge of feeding the animals. When IS occupied Mosul, it presented Khaled with a choice: lose his job or pledge allegiance to IS and continue working. Like many others, Khaled chose the latter, likely for the safety and wellbeing of himself and his family.
 
 Fast forward to December 2017, and after a 30-minute trial prompted by testimony from a secret informant, Khaled is sentenced to 15 years in prison for membership in IS, the relative leniency of this punishment due to his particular judge’s acknowledgement that Khaled never actually fought for IS. But what the sentence failed to capture was Khaled’s lack of real options. Khaled and his family might not have survived the IS occupation had Khaled left his job.
 
