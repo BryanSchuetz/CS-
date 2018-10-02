@@ -28,11 +28,11 @@ Khaled’s situation is no anomaly. In terms of punishment, the Anti-Terrorism L
  
 The law is broad. It defines terrorism as:
 
-> *“Violence or the threat of violence that aims at terrorizing people and putting their lives, safety and liberties at risk, or causing them to lose their money and property, regardless of the motive or purpose thereof, as long as its aim is to serve a terrorist scheme or design organized by an individual or a group”* (Article 2 (1))
+> *“Violence, or the threat of violence, that aims at terrorizing people and putting their lives, safety, and liberties at risk, or causing them to lose their money and property, regardless of the motive or purpose thereof, as long as its aim is to serve a terrorist scheme or design organized by an individual or a group.”* (Article 2 (1))
 
 A terrorist is defined as:
 
-> *“Whoever organizes, heads or leads a terrorist armed gang that trains and plans for such activities, or whoever supports or participates in such activities”* (Article 2(3)).
+> *“Whoever organizes, heads, or leads a terrorist armed gang that trains and plans for such activities, or whoever supports or participates in such activities.”* (Article 2(3)).
 
 The punishment for those convicted is death (Article 4(1)). 
 
