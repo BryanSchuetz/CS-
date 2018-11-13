@@ -4,7 +4,7 @@ date: 2018-09-10 08:56:00 Z
 tags:
 - CVE
 - Fragile States
-- Programing
+- programming
 Author: Adeel Jafferi
 social-image:
 - "/uploads/800px-Afghan_children_request_leaflets_in_a_Bagram_bazaar-106ade.jpg"
