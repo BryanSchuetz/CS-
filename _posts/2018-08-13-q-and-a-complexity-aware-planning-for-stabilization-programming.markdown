@@ -5,7 +5,7 @@ tags:
 - CVE
 - Programing
 - Research
-Author: Christy Martins
+Author: "[Christy Martins](https://www.dai.com/who-we-are/our-team/christy-martins) "
 social-image: "/uploads/IMG_Christy%20Martins.jpg"
 thumbnail: "/uploads/Screen%20Shot%202018-08-13%20at%208.57.03%20AM.png"
 Small Image: "/uploads/800px-Street_scene_in_Marsabit,_North_Kenya-c71172.jpg"
